@@ -1,24 +1,26 @@
+<!-- ========================= HEADER ========================= -->
+
 <div align="center">
 
-# 👨‍💻 MANIKANDAN B
-
-### `Diploma CSE` • `Software Developer` • `Full-Stack Web Developer`
-
 <a href="https://github.com/spiderboy-Manikandan">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Manikandan+B+%F0%9F%91%8B;Diploma+CSE+%7C+CGPA+9.4%2F10;Software+Developer+%7C+Full-Stack+Web+Developer;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Grow;Turning+ideas+into+practical+software+%F0%9F%9A%80" alt="Typing animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MANIKANDAN%20B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Full-Stack%20Web%20Developer&descAlignY=60&descSize=18&color=0:0f172a,50:2563eb,100:06b6d4" width="100%" alt="Manikandan B animated header"/>
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Manikandan+B+%F0%9F%91%8B;Diploma+CSE+%7C+CGPA+9.4%2F10;Building+practical+web+applications+%F0%9F%9A%80;Learning+DSA%2C+Java%2C+Python+%26+problem+solving;Turning+ideas+into+working+projects+%F0%9F%92%BB" alt="Typing animation"/>
 </a>
 
 <br/>
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/">🌐 <b>PORTFOLIO</b></a> &nbsp;•&nbsp;
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/">💼 <b>LINKEDIN</b></a> &nbsp;•&nbsp;
-<a href="https://manikandan-portfolio-kdhi.vercel.app/">📧 <b>CONTACT</b></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Software%20Developer-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Continuous%20Learning-059669?style=for-the-badge"/>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-2563EB?style=for-the-badge" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:compmanikandanb23@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
 </div>
 
@@ -28,304 +30,264 @@
 
 Hi! I'm **Manikandan B**, a **Diploma in Computer Science & Engineering** graduate from **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
 
-I learn by building practical projects and improving my programming fundamentals. My interests include software development, full-stack web applications, databases, IoT, machine learning, data science and problem solving.
+I enjoy learning through hands-on development and building practical applications. My main interests are **software development, full-stack web development, databases, problem solving, and IoT-based systems**.
 
-| 🎓 Education | 💻 Focus | 📍 Location |
-|---|---|---|
-| Diploma CSE • **9.4 / 10** | Software & Full-Stack Development | Madurai, Tamil Nadu, India |
+- 🎓 Diploma CSE — **9.4 / 10 CGPA**
+- 📍 Madurai, Tamil Nadu, India
+- 💻 Interested in Software Development & Full-Stack Development
+- 🌐 Comfortable building projects with PHP, MySQL, JavaScript, HTML, CSS & Bootstrap
+- 🐍 Improving Python, Java, C and Data Structures & Algorithms
+- 🔌 Interested in hardware + software integration and IoT
+- 🚀 Looking for an entry-level opportunity where I can learn, contribute and grow
 
 ---
 
-# 🧩 Technical Skills — Colorful Categories
+## 💻 Technical Skills
 
 <div align="center">
 
-### 🟧 Web Development
+### Programming
+<img src="https://skillicons.dev/icons?i=c,java,python" alt="C Java Python"/>
 
-`HTML` `CSS` `JavaScript` `PHP`
+### Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js,php,bootstrap" alt="HTML CSS JavaScript PHP Bootstrap"/>
 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
-### 🟦 Programming
-
-`C` `Python` `Java`
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-### 🟪 Data, AI & Computer Science
-
-`Machine Learning` `Data Science` `Digital Logic Design`
-
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital%20Logic%20Design-DB2777?style=for-the-badge"/>
-
-### 🟩 Database, Network & Hardware
-
-`MySQL` `Computer Network` `Computer Hardware`
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Hardware-16A34A?style=for-the-badge"/>
-
-### 🟦 Development & Professional Tools
-
-`VS Code` `Antigravity` `GitHub` `LinkedIn` `MS Office` `Word` `Excel` `PowerPoint` `Arduino IDE` `Cisco`
-
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-### 🤖 AI Tools
-
-`ChatGPT` `Gemini` `DeepSeek` `GitHub Copilot` `Claude` `Gamma`
-
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge"/>
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino" alt="MySQL Git GitHub VS Code Arduino"/>
 
 </div>
 
----
+### Core Concepts
 
-# 🚀 Projects — Detailed Showcase
+`Data Structures & Algorithms` · `OOP` · `DBMS` · `Computer Networks` · `Problem Solving`
 
-## 🚌 01. Online Bus Ticket Booking System
+### IoT & Integration
 
-A **PHP + MySQL full-stack booking application** designed to manage users, buses, routes, passengers, seats and bookings.
-
-**Main modules**
-- 👤 Registration, login and user authentication
-- 🚌 Bus, route and fare management
-- 💺 Seat selection and automatic seat availability
-- 🎫 Ticket generation / printing
-- 💳 Booking and payment workflow concept
-- 🧑‍💼 Admin dashboard and management
-- 🗄️ MySQL database integration
-
-**Stack:** `HTML` `CSS` `Bootstrap` `JavaScript` `PHP` `MySQL`
-
-<div align="center"><img src="./assets/bus-booking.svg" width="92%" alt="Online bus ticket booking sample UI"/></div>
+`NodeMCU ESP8266` · `RFID RC522` · `Arduino IDE` · `I2C LCD` · `Google Sheets API`
 
 ---
 
-## 📡 02. RFID Lab Attendance System
+## 🚀 Featured Projects
 
-An **IoT-based attendance system** connecting RFID hardware with software to record student attendance automatically.
+<div align="center">
 
-**Hardware**
+<a href="https://github.com/spiderboy-Manikandan">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=spiderboy-Manikandan&repo=spiderboy-Manikandan&theme=transparent&hide_border=true" alt="Profile repository"/>
+</a>
+
+</div>
+
+### 🛒 01 — Great Shopping | E-Commerce Website
+
+A full-stack e-commerce application built to practice real-world web development and database-driven application design.
+
+**Features**
+- User registration and login
+- Product categories and product management
+- Shopping cart and wishlist
+- Checkout and order management
+- Admin dashboard
+- MySQL database integration
+
+**Tech:** `PHP` `MySQL` `JavaScript` `HTML` `CSS` `Bootstrap`
+
+---
+
+### 🚌 02 — Online Bus Ticket Booking System
+
+A web-based bus reservation system for managing routes, buses, passengers, seats and bookings.
+
+**Features**
+- User authentication
+- Bus and route management
+- Seat selection
+- Passenger and booking management
+- Ticket generation
+- Admin functionality
+- MySQL database integration
+
+**Tech:** `PHP` `MySQL` `JavaScript` `HTML` `CSS`
+
+---
+
+### 📡 03 — RFID Lab Attendance System
+
+An IoT-based attendance system that connects RFID hardware with software for automated attendance recording.
+
+**Hardware & Integration**
 - NodeMCU ESP8266
-- RC522 RFID reader
+- RFID RC522
 - I2C LCD
 - Buzzer
+- Google Sheets integration
 
-**Software / Integration**
-- Arduino IDE
-- Google Sheets API / Sheets storage
-- Attendance website concept
-- Date, time, name and status tracking
+**Features**
+- RFID-based student identification
+- Automatic attendance recording
+- Date and time tracking
+- Hardware-software integration
 
-**Flow:** `RFID Card → NodeMCU → Attendance Logic → Google Sheets → Web Dashboard`
-
-**Stack:** `C/C++` `NodeMCU` `RFID` `Arduino IDE` `Google Sheets API`
-
-<div align="center"><img src="./assets/rfid-attendance.svg" width="92%" alt="RFID attendance sample dashboard"/></div>
+**Tech:** `C/C++` `Arduino IDE` `NodeMCU` `RFID` `Google Sheets API`
 
 ---
 
-## 🛒 03. Great Shopping — E-Commerce Website
+### 🍱 04 — Food Redistribution System
 
-A database-driven e-commerce application built to practice **real-world CRUD, authentication, product management, cart and order workflows**.
+A social-impact project concept connecting food donors, NGOs and volunteers to help redistribute surplus food.
 
-**Customer side**
-- 👤 Registration / login
-- 🛍️ Product browsing and categories
-- 🛒 Cart and wishlist
-- 📦 Checkout and orders
-- 🧾 Order history
-
-**Admin side**
-- ➕ Add / manage categories
-- ➕ Add / manage products
-- 📦 Manage orders
-- 👥 Manage users
-- 📊 Dashboard
-
-**Stack:** `PHP` `MySQL` `Bootstrap` `JavaScript` `HTML` `CSS`
-
-<div align="center"><img src="./assets/great-shopping.svg" width="92%" alt="Great Shopping sample e-commerce UI"/></div>
-
----
-
-## 🍱 04. Food Redistribution System
-
-A social-impact project concept designed to connect **restaurants, hotels and events** with **NGOs and volunteers** to help redistribute surplus food.
-
-**Core workflow**
-- 🍽️ Donor registers surplus food
-- 📍 System matches location and availability
-- 🔔 Volunteer receives pickup information
-- 🚚 Food is collected and delivered
-- 🤝 NGO/community receives the food
-
-**Potential features**
-- Location matching
-- Pickup scheduling
-- Notifications
-- Donor / volunteer / NGO roles
-- Food availability tracking
-- Social-impact reporting
-
-**Focus:** `Web Development` `MySQL` `Location Matching` `Notifications` `Social Impact`
-
-<div align="center"><img src="./assets/food-redistribution.svg" width="92%" alt="Food redistribution system flow sample"/></div>
-
----
-
-# 🔄 Development Flow — New Design
-
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[🔎 Requirements]
-    B --> C[🎨 UI / UX + DB Design]
-    C --> D[💻 Development]
-    D --> E[🧪 Testing]
-    E --> F{🐛 Bug?}
-    F -- Yes --> D
-    F -- No --> G[🚀 Deploy]
-    G --> H[📈 Feedback]
-    H --> I[🔧 Improve]
-    I --> D
+```text
+┌───────────────┐
+│ Restaurants / │
+│ Hotels /      │
+│ Events        │
+└───────┬───────┘
+        │ Surplus Food
+        ▼
+┌───────────────┐
+│ NGOs /        │
+│ Volunteers    │
+└───────┬───────┘
+        │ Collection
+        ▼
+┌───────────────┐
+│ People in     │
+│ Need          │
+└───────────────┘
 ```
 
----
-
-# 🗺️ Learning Roadmap
-
-```mermaid
-flowchart TD
-    A[01 • Programming Basics<br/>C • Java • Python]
-    --> B[02 • Web Development<br/>HTML • CSS • JS • PHP]
-    --> C[03 • Database<br/>MySQL • SQL • DBMS]
-    --> D[04 • Problem Solving<br/>DSA • OOP • Aptitude]
-    --> E[05 • Backend<br/>PHP • Python Flask • APIs]
-    --> F[06 • Data & AI<br/>Data Science • ML]
-    --> G[07 • Engineering<br/>Git • GitHub • Testing]
-    --> H[08 • Career<br/>Software Developer]
-    --> I[09 • Future<br/>Products • Entrepreneurship]
-```
+**Focus:** `Web Development` `Location Matching` `Notifications` `Social Impact`
 
 ---
 
-# 🎓 Education
+## 🎓 Education
 
 | Period | Qualification | Institution | Result |
 |---|---|---|---|
-| **2023–2026** | Diploma in Computer Science & Engineering | Tamil Nadu Government Polytechnic College, Madurai | **9.4 / 10 CGPA** |
-| **2022–2023** | SSLC / 10th | Dhanapaul Higher Secondary School, Madurai | **77%** |
+| 2023 – 2026 | Diploma in CSE | Tamil Nadu Government Polytechnic College, Madurai | **9.4 / 10 CGPA** |
+| 2022 – 2023 | SSLC / 10th | Dhanapaul Higher Secondary School, Madurai | **77%** |
 
 ---
 
-# 📜 Certificates
-
-- 🐍 **Python Training** — Spoken Tutorial, IIT Bombay
-- 🌐 **HTML Training** — Spoken Tutorial, IIT Bombay
-- 🎨 **CSS Training** — Spoken Tutorial
-- 💻 **EduPyramids Training** — SINE, IIT Bombay
-- 🔐 **Cybersecurity Seminar** — IUNOWARE
-
----
-
-# 📊 GitHub Stats
+## 📜 Certificates
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&hide_border=true&count_private=false&theme=transparent&title_color=00D9FF&icon_color=7C3AED&text_color=64748B" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00D9FF&text_color=64748B" alt="Top languages"/>
+| Certificate | Provider |
+|---|---|
+| 🐍 Python Training | Spoken Tutorial — IIT Bombay |
+| 🌐 HTML Training | Spoken Tutorial — IIT Bombay |
+| 🎨 CSS Training | Spoken Tutorial |
+| 🔐 Cybersecurity Seminar | IUNOWARE |
+| 💻 EduPyramids Training | SINE — IIT Bombay |
+
+</div>
+
+> Certificate proofs and academic records are available on my portfolio.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/spiderboy-Manikandan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=transparent" alt="Manikandan GitHub Stats"/>
+</a>
+
+<a href="https://github.com/spiderboy-Manikandan">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=spiderboy-Manikandan&hide_border=true&theme=transparent&ring=00D9FF&fire=FF4D6D&currStreakLabel=7C3AED" alt="GitHub streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=spiderboy-Manikandan&hide_border=true&theme=transparent" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake — Stable Version
+## 🐍 Contribution Snake
+
+> This animation is generated automatically from my GitHub contribution graph.
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
+  <img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="100%"/>
 </picture>
 
-<br/>
-
-<sub>🐍 Updated automatically by GitHub Actions • Dark/light SVG fallback included</sub>
-
 </div>
 
 ---
 
-# 🎯 Career Focus
+## 🎯 Career Focus
 
 ```text
-Learn Fundamentals
-        ↓
-Build Strong Coding Skills
-        ↓
-Practice DSA + Aptitude
-        ↓
-Build Real Projects
-        ↓
-Improve Communication
-        ↓
-Join a Software Development Team
-        ↓
-Grow into a Strong Software Developer
-        ↓
-Future: Build Products / Startup
+        Learn
+          ↓
+   Build Fundamentals
+          ↓
+    Practice DSA
+          ↓
+ Build Real Projects
+          ↓
+ Improve Code Quality
+          ↓
+ Contribute & Collaborate
+          ↓
+  Grow as a Software Developer
 ```
+
+### Current Focus
+
+- 🧠 Strengthening **C, Java and Python fundamentals**
+- 🧩 Practicing **Data Structures, Algorithms and problem solving**
+- 🌐 Improving **Full-Stack Web Development**
+- 🗄️ Improving **MySQL and database design**
+- 🔧 Building more practical projects
+- 🤝 Preparing for entry-level software development opportunities
 
 ---
 
-# 🔘 Different Button Styles
+## ✨ Developer Mindset
 
 <div align="center">
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐_OPEN_PORTFOLIO-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼_CONNECT_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/💡-Learn%20by%20Building-2563EB?style=for-the-badge" alt="Learn by building"/>
+<img src="https://img.shields.io/badge/🧩-Solve%20Problems-7C3AED?style=for-the-badge" alt="Solve problems"/>
+<img src="https://img.shields.io/badge/🚀-Keep%20Improving-0891B2?style=for-the-badge" alt="Keep improving"/>
 
-<br/>
+<br/><br/>
 
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙_VIEW_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/📧_CONTACT_ME-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<i>"Learn consistently. Build practically. Improve continuously."</i>
 
 </div>
 
 ---
 
-# 💡 Developer Mindset
+## 🌐 Connect With Me
 
 <div align="center">
 
-### `LEARN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE` → `REPEAT`
+<a href="https://manikandan-portfolio-kdhi.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Portfolio-2563EB?style=for-the-badge" alt="Portfolio"/>
+</a>
 
-**“Small steps every day lead to big results.”** 🚀
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:compmanikandanb23@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-compmanikandanb23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/spiderboy-Manikandan">
+  <img src="https://komarev.com/ghpvc/?username=spiderboy-Manikandan&label=Profile%20Views&color=2563EB&style=flat" alt="Profile views"/>
+</a>
 
 </div>
 
@@ -335,6 +297,10 @@ Future: Build Products / Startup
 
 ### ⭐ Thanks for visiting my profile!
 
-**Let's connect, learn and build something useful together.**
+**Learning • Building • Improving • Growing 🚀**
+
+<a href="https://github.com/spiderboy-Manikandan">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=0:0f172a,50:2563eb,100:06b6d4" width="100%" alt="Animated footer"/>
+</a>
 
 </div>
