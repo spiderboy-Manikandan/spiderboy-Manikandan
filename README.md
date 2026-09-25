@@ -59,27 +59,25 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <img src="https://skillicons.dev/icons?i=mysql,github,vscode,arduino&theme=dark" alt="Developer toolkits"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Antigravity-6C5CE7?style=for-the-badge"/>
-<br/><br/>
-<!-- Antigravity (custom, no logo available) -->
+<!-- Antigravity (custom text badge, no logo available) -->
 <img src="https://img.shields.io/badge/Antigravity-6C5CE7?style=for-the-badge&logoColor=white"/>
 
 <!-- Google Sheets API -->
-<img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 
 <!-- Microsoft Word -->
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
 
 <!-- Microsoft PowerPoint -->
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
 
 <!-- Cisco -->
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
-<!-- Computer Network (custom, no logo available) -->
+<!-- Computer Network (custom text badge, no logo available) -->
 <img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge&logoColor=white"/>
 
-<!-- System Hardware (custom, no logo available) -->
+<!-- System Hardware (custom text badge, no logo available) -->
 <img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=for-the-badge&logoColor=white"/>
 
 
