@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=220&section=header&text=Manikandan%20B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Diploma%20CSE%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C86DD7,100:6C5CE7&height=220&section=header&text=Manikandan%20B&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Diploma%20CSE%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Manikandan+B+%F0%9F%91%8B;Diploma+CSE+%7C+9.4%2F10+CGPA;Software+Developer+%7C+Full-Stack+Web+Developer;Build+%E2%80%A2+Debug+%E2%80%A2+Improve+%E2%80%A2+Grow;Turning+ideas+into+practical+software+%F0%9F%9A%80" alt="Animated introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=C86DD7&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Manikandan+B+%F0%9F%91%8B;Diploma+CSE+%7C+9.4%2F10+CGPA;Software+Developer+%7C+Full-Stack+Web+Developer;Build+%E2%80%A2+Debug+%E2%80%A2+Improve+%E2%80%A2+Grow;Turning+ideas+into+practical+software+%F0%9F%9A%80" alt="Animated introduction"/>
 
 <br/>
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C2FF?style=plastic&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B9D?style=plastic"/></a>
 <a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=plastic&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
 
@@ -32,13 +32,31 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 ---
 
-## 🧰 Languages & Tools
+## 🧑‍💻 Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,c,python,java,mysql,git,github,vscode,arduino&theme=dark" alt="Languages and tools"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c&theme=dark" alt="Languages"/>
 
+</div>
+
+## 🧰 Developer Toolkits
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino&theme=dark" alt="Developer toolkits"/>
 <br/><br/>
+<img src="https://img.shields.io/badge/Sheets%20API-34A853?style=plastic&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=plastic&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Network-059669?style=plastic"/>
+<img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=plastic"/>
+
+</div>
+
+## 🤖 AI Tools
+
+<div align="center">
 
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=plastic"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=plastic"/>
@@ -169,16 +187,16 @@ A responsive portfolio website built to present my **projects, education, certif
 **Highlights from the portfolio**
 - 🖥️ 3D animated desktop environment
 - 🌗 Dark / light mode
-- 🎮 Interactive games
+- 🎮 Interactive games (Memory Match, Guess the Number, Tic-Tac-Toe AI, Rock-Paper-Scissors, Typing Speed Test)
 - ✨ Scroll and page animations
 - 📩 Contact form integration
 - 📜 Resume and certificate section
-- 🤖 AI assistant interface
+- 🤖 AI assistant interface that answers questions about my skills, projects and education
 
 **Technology:** `HTML` `CSS` `JavaScript`
 
 🌐 **Live Portfolio:**
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00C2FF?style=plastic&logo=vercel&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-FF6B9D?style=plastic&logo=vercel&logoColor=white"/></a>
 
 ---
 
@@ -242,10 +260,13 @@ flowchart LR
 |---|---|---:|---|
 | 🐍 **Python Training** | Spoken Tutorial, IIT Bombay | **95%** | Python fundamentals, scripting and programming practice |
 | 🌐 **HTML Training** | Spoken Tutorial, IIT Bombay | **95%** | HTML structure and web-page development fundamentals |
+| 🎨 **CSS Training** | Spoken Tutorial, IIT Bombay | — | Responsive styling, animation techniques and UI design |
 | 🎓 **EduPyramids Training** | SINE, IIT Bombay | **85%** | Technical training and practical learning |
 | 🔐 **Cybersecurity Seminar** | IUNOWARE | **Outstanding Performance** | Participation and performance in cybersecurity learning |
+| 🌐 **Computer Networking** | NM Program | — | LAN/WAN concepts, connectivity and structured communication |
+| 🗣️ **English Essentials** | NM Program | — | Communication skills and professional expression |
 
-> 📌 My portfolio also contains academic records and additional certificate/achievement sections. Certificate files can be linked directly when their final URLs are available.
+> 📌 Full certificate gallery — including college and school mark sheets — is on the [portfolio](https://manikandan-portfolio-kdhi.vercel.app/#certificates).
 
 ---
 
@@ -253,12 +274,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&hide_border=true&count_private=false&theme=transparent&title_color=00D9FF&icon_color=7C3AED&text_color=64748B" alt="GitHub statistics"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=00D9FF&text_color=64748B" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&hide_border=true&count_private=false&theme=transparent&title_color=C86DD7&icon_color=FF6B9D&text_color=64748B" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=C86DD7&text_color=64748B" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=spiderboy-Manikandan&hide_border=true&theme=transparent&ring=00D9FF&fire=FF4D6D&currStreakLabel=7C3AED" alt="GitHub streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderboy-Manikandan&theme=react-dark&hide_border=true&bg_color=00000000&color=C86DD7&line=FF6B9D&point=6C5CE7" alt="Contribution activity graph" width="100%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=spiderboy-Manikandan&hide_border=true&theme=transparent&ring=FF6B9D&fire=C86DD7&currStreakLabel=6C5CE7" alt="GitHub streak"/>
 
 </div>
 
@@ -278,15 +303,31 @@ flowchart LR
 
 ---
 
+# 🔘 Let's Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D9FF&height=180&section=footer&animation=fadeIn"/>
+I'm always open to internship opportunities, freelance web/IoT work, or just talking tech. Reach me directly:
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20OPEN%20PORTFOLIO-00C2FF?style=plastic"/></a>
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20VIEW%20GITHUB-181717?style=plastic&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20CONNECT%20LINKEDIN-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white"/></a>
+<a href="tel:+917094964875"><img src="https://img.shields.io/badge/Call-34A853?style=plastic&logo=phone&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=plastic&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
+
+📍 Madurai, Tamil Nadu, India &nbsp;•&nbsp; 🤖 Or just ask my [portfolio AI assistant](https://manikandan-portfolio-kdhi.vercel.app/#contact) — it knows my skills, projects and education
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=180&section=footer&animation=twinkling"/>
 
 `LEARN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE` → `REPEAT`
 
