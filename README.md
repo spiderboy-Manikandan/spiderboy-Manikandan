@@ -6,9 +6,9 @@
 
 <br/>
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B9D?style=plastic"/></a>
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=plastic&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B9D?style=for-the-badge"/></a>
+<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm **Manikandan B** — a builder at heart, currently finishing my **Diploma in Computer Science & Engineering** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
+I'm **Manikandan B** — a builder at heart, a **Diploma in Computer Science & Engineering graduate** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
 
 What drives me is turning a rough idea into something people can actually click, use and break — then fixing it. Over the last few years that's meant shipping a full **PHP/MySQL e-commerce platform**, wiring up an **IoT attendance system** with an RC522 reader and a NodeMCU, and prototyping a **social-impact food redistribution concept**. I'm just as comfortable soldering a sensor as I am debugging a checkout flow at 1 a.m.
 
@@ -36,7 +36,20 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c&theme=dark" alt="Languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c&theme=dark" alt="Programming Languages"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 
 </div>
 
@@ -46,11 +59,15 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino&theme=dark" alt="Developer toolkits"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Sheets%20API-34A853?style=plastic&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Office-D83B01?style=plastic&logo=microsoftoffice&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=plastic&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Network-059669?style=plastic"/>
-<img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=plastic"/>
+<img src="https://img.shields.io/badge/Antigravity-6C5CE7?style=for-the-badge"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=for-the-badge"/>
 
 </div>
 
@@ -58,12 +75,12 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=plastic"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=plastic"/>
-<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=plastic"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=plastic&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=plastic"/>
-<img src="https://img.shields.io/badge/Gamma-7C3AED?style=plastic"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge"/>
 
 </div>
 
@@ -196,7 +213,7 @@ A responsive portfolio website built to present my **projects, education, certif
 **Technology:** `HTML` `CSS` `JavaScript`
 
 🌐 **Live Portfolio:**
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-FF6B9D?style=plastic&logo=vercel&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 ---
 
@@ -234,7 +251,7 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 
 <div align="center"><img src="./assets/great-shopping.svg" width="92%" alt="Great Shopping E-Commerce Website"/></div>
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20DETAILS-16A34A?style=plastic"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20DETAILS-16A34A?style=for-the-badge"/></a>
 
 ---
 
@@ -316,15 +333,15 @@ flowchart LR
 
 <div align="center">
 
-I'm always open to internship opportunities, freelance web/IoT work, or just talking tech. Reach me directly:
+I'm open to entry-level software opportunities, internships, freelance web/IoT work, and technical collaborations. Reach me directly:
 
-<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=plastic&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white"/></a>
-<a href="tel:+917094964875"><img src="https://img.shields.io/badge/Call-34A853?style=plastic&logo=phone&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white"/></a>
-<a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/></a>
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=plastic&logo=vercel&logoColor=white"/></a>
+<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="tel:+917094964875"><img src="https://img.shields.io/badge/Call-34A853?style=for-the-badge&logo=phone&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 <br/><br/>
 
