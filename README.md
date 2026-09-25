@@ -37,54 +37,59 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 <div align="center">
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML5 logo"/>
-<img src="https://cdn.simpleicons.org/css/1572B6" width="42" alt="CSS3 logo"/>
-<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript logo"/>
-<img src="https://cdn.simpleicons.org/php/777BB4" width="42" alt="PHP logo"/>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python logo"/>
-<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" alt="Java logo"/>
-<img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" alt="C logo"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" hspace="6" alt="HTML5 logo"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="42" hspace="6" alt="CSS3 logo"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" hspace="6" alt="JavaScript logo"/>
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="42" hspace="6" alt="PHP logo"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" hspace="6" alt="Python logo"/>
+  <img src="https://cdn.simpleicons.org/java/ED8B00" width="42" hspace="6" alt="Java logo"/>
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" hspace="6" alt="C programming logo"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" hspace="6"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black" hspace="6"/>
 </p>
 
 </div>
 
-## 🧰 Developer Toolkits
+## 🧰 Developer Toolkits & Hardware
 
 <div align="center">
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="MySQL logo"/>
-<img src="https://cdn.simpleicons.org/git/F05032" width="42" alt="Git logo"/>
-<img src="https://cdn.simpleicons.org/github/181717" width="42" alt="GitHub logo"/>
-<img src="https://cdn.simpleicons.org/vscodium/007ACC" width="42" alt="Visual Studio Code logo"/>
-<img src="https://cdn.simpleicons.org/arduino/00979D" width="42" alt="Arduino logo"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" hspace="6" alt="MySQL logo"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="42" hspace="6" alt="Git logo"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="42" hspace="6" alt="GitHub logo"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" hspace="6" alt="Visual Studio Code logo"/>
+  <img src="https://cdn.simpleicons.org/arduino/00979D" width="42" hspace="6" alt="Arduino logo"/>
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="42" hspace="6" alt="Google Sheets logo"/>
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="42" hspace="6" alt="Microsoft Word logo"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" hspace="6" alt="Microsoft Excel logo"/>
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="42" hspace="6" alt="Microsoft PowerPoint logo"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" hspace="6" alt="Cisco logo"/>
+  <img src="https://cdn.simpleicons.org/wireshark/167EC4" width="42" hspace="6" alt="Computer Network logo"/>
+  <img src="https://cdn.simpleicons.org/cpu/16A34A" width="42" hspace="6" alt="System Hardware logo"/>
 </p>
+
 <p align="center">
-<img src="https://img.shields.io/badge/Antigravity-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white"/>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge&logo=wireshark&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=for-the-badge&logo=cpu&logoColor=white" hspace="6"/>
 </p>
 
 </div>
@@ -94,20 +99,23 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 <div align="center">
 
 <p align="center">
-<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" alt="Gemini logo"/>
-<img src="https://cdn.simpleicons.org/deepseek/2563EB" width="42" alt="DeepSeek logo"/>
-<img src="https://cdn.simpleicons.org/githubcopilot/111827" width="42" alt="GitHub Copilot logo"/>
-<img src="https://cdn.simpleicons.org/claude/D97706" width="42" alt="Claude logo"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" hspace="6" alt="Gemini logo"/>
+  <img src="https://cdn.simpleicons.org/openai/10A37F" width="42" hspace="6" alt="ChatGPT logo"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97706" width="42" hspace="6" alt="Claude logo"/>
+  <img src="https://cdn.simpleicons.org/perplexity/22B8CF" width="42" hspace="6" alt="Perplexity logo"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/181717" width="42" hspace="6" alt="GitHub Copilot logo"/>
+  <img src="https://cdn.simpleicons.org/gamma/7C3AED" width="42" hspace="6" alt="Gamma logo"/>
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="42" hspace="6" alt="DeepSeek logo"/>
 </p>
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge&logo=deepseek&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge&logo=gamma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Perplexity-22B8CF?style=for-the-badge&logo=perplexity&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge&logo=gamma&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" hspace="6"/>
 </p>
 
 </div>
