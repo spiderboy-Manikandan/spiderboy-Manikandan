@@ -36,6 +36,7 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
+<p align="center">
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML5 logo"/>
 <img src="https://cdn.simpleicons.org/css/1572B6" width="42" alt="CSS3 logo"/>
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript logo"/>
@@ -43,19 +44,22 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 <img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python logo"/>
 <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" alt="Java logo"/>
 <img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" alt="C logo"/>
+</p>
 
-<br/>
+<p align="center">
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+</p>
 
-<br/>
+<p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+</p>
 
 </div>
 
@@ -63,14 +67,17 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
+<p align="center">
 <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="MySQL logo"/>
 <img src="https://cdn.simpleicons.org/git/F05032" width="42" alt="Git logo"/>
 <img src="https://cdn.simpleicons.org/github/181717" width="42" alt="GitHub logo"/>
 <img src="https://cdn.simpleicons.org/vscodium/007ACC" width="42" alt="Visual Studio Code logo"/>
 <img src="https://cdn.simpleicons.org/arduino/00979D" width="42" alt="Arduino logo"/>
-<br/><br/>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Antigravity-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white"/>
-<br/><br/>
+</p>
+<p align="center">
 <img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
@@ -78,6 +85,7 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge&logo=cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 </div>
 
@@ -85,12 +93,14 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
+<p align="center">
 <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" alt="Gemini logo"/>
 <img src="https://cdn.simpleicons.org/deepseek/2563EB" width="42" alt="DeepSeek logo"/>
 <img src="https://cdn.simpleicons.org/githubcopilot/111827" width="42" alt="GitHub Copilot logo"/>
 <img src="https://cdn.simpleicons.org/claude/D97706" width="42" alt="Claude logo"/>
+</p>
 
-<br/><br/>
+<p align="center">
 
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
@@ -98,6 +108,7 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 <img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge&logo=gamma&logoColor=white"/>
+</p>
 
 </div>
 
