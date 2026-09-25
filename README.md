@@ -311,53 +311,16 @@ flowchart LR
 <h2 align="center">🐍 Contribution Activity</h2>
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/dist/github-contribution-grid-snake-dark.svg">
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/dist/github-contribution-grid-snake.svg">
-
-    <img
-      src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/dist/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="100%">
-  </picture>
+  <img
+    src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/dist/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
 </p>
 
----
+<hr>
 
-# 🔘 Let's Connect
-
-<div align="center">
-
-I'm open to entry-level software opportunities, internships, freelance web/IoT work, and technical collaborations. Reach me directly:
-
-<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="tel:+917094964875"><img src="https://img.shields.io/badge/Call-34A853?style=for-the-badge&logo=phone&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-<br/><br/>
-
-📍 Madurai, Tamil Nadu, India &nbsp;•&nbsp; 🤖 Or just ask my [portfolio AI assistant](https://manikandan-portfolio-kdhi.vercel.app/#contact) — it knows my skills, projects and education
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=180&section=footer&animation=twinkling"/>
-
-`LEARN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE` → `REPEAT`
-
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
 **Let's connect, learn and build something useful together. 🚀**
 
