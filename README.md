@@ -36,7 +36,13 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c&theme=dark" alt="Programming Languages"/>
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="42" alt="HTML5 logo"/>
+<img src="https://cdn.simpleicons.org/css/1572B6" width="42" alt="CSS3 logo"/>
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" alt="JavaScript logo"/>
+<img src="https://cdn.simpleicons.org/php/777BB4" width="42" alt="PHP logo"/>
+<img src="https://cdn.simpleicons.org/python/3776AB" width="42" alt="Python logo"/>
+<img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" alt="Java logo"/>
+<img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" alt="C logo"/>
 
 <br/>
 
@@ -57,7 +63,11 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino&theme=dark" alt="Developer toolkits"/>
+<img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" alt="MySQL logo"/>
+<img src="https://cdn.simpleicons.org/git/F05032" width="42" alt="Git logo"/>
+<img src="https://cdn.simpleicons.org/github/181717" width="42" alt="GitHub logo"/>
+<img src="https://cdn.simpleicons.org/vscodium/007ACC" width="42" alt="Visual Studio Code logo"/>
+<img src="https://cdn.simpleicons.org/arduino/00979D" width="42" alt="Arduino logo"/>
 <br/><br/>
 <img src="https://img.shields.io/badge/Antigravity-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white"/>
 <br/><br/>
@@ -74,6 +84,13 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 ## 🤖 AI Tools
 
 <div align="center">
+
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" alt="Gemini logo"/>
+<img src="https://cdn.simpleicons.org/deepseek/2563EB" width="42" alt="DeepSeek logo"/>
+<img src="https://cdn.simpleicons.org/githubcopilot/111827" width="42" alt="GitHub Copilot logo"/>
+<img src="https://cdn.simpleicons.org/claude/D97706" width="42" alt="Claude logo"/>
+
+<br/><br/>
 
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
