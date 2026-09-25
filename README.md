@@ -57,30 +57,17 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,github,vscode,arduino&theme=dark" alt="Developer toolkits"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino&theme=dark" alt="Developer toolkits"/>
 <br/><br/>
-<!-- Antigravity (custom text only) -->
-![Antigravity](https://img.shields.io/badge/Antigravity-6C5CE7?style=for-the-badge)
-
-<!-- Google Sheets API -->
-![Google Sheets API](https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-<!-- Microsoft Word -->
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-
-<!-- Microsoft PowerPoint -->
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
-<!-- Cisco -->
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-<!-- Computer Network (custom text only) -->
-![Computer Network](https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge)
-
-<!-- System Hardware (custom text only) -->
-![System Hardware](https://img.shields.io/badge/System%20Hardware-16A34A?style=for-the-badge)
-
-
+<img src="https://img.shields.io/badge/Antigravity-6C5CE7?style=for-the-badge&logo=rocket&logoColor=white"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=for-the-badge&logo=arduino&logoColor=white"/>
 
 </div>
 
@@ -88,12 +75,12 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge&logo=deepseek&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=claude&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge&logo=gamma&logoColor=white"/>
 
 </div>
 
