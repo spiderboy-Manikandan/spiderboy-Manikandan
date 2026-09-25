@@ -1,120 +1,57 @@
 <div align="center">
 
-# 👨‍💻 MANIKANDAN B
-
-### `Diploma CSE` • `Software Developer` • `Full-Stack Web Developer`
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=220&section=header&text=Manikandan%20B&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Diploma%20CSE%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Full-Stack%20Web%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=00D9FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Manikandan+B+%F0%9F%91%8B;Diploma+CSE+%7C+9.4%2F10+CGPA;Software+Developer+%7C+Full-Stack+Web+Developer;Build+%E2%80%A2+Debug+%E2%80%A2+Improve+%E2%80%A2+Grow;Turning+ideas+into+practical+software+%F0%9F%9A%80" alt="Animated introduction"/>
 
 <br/>
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Software%20Developer-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full--Stack-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/IoT-059669?style=flat-square"/>
-<img src="https://img.shields.io/badge/AI%20%26%20Data-DB2777?style=flat-square"/>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-00C2FF?style=plastic&logoColor=white"/></a>
+<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=plastic&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
 ---
-
-# 🧭 Profile Map
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│  👋 ABOUT  →  🛠️ SKILLS  →  🚀 PROJECTS  →  🎓 EDUCATION │
-│       ↓                                                   │
-│  📜 CERTIFICATES  →  📊 GITHUB  →  🐍 SNAKE  →  🤝 CONNECT │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ## 👋 About Me
 
-Hi! I'm **Manikandan B**, a **Diploma in Computer Science & Engineering** graduate from **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
+I'm **Manikandan B** — a builder at heart, currently finishing my **Diploma in Computer Science & Engineering** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
 
-I enjoy learning by building practical software. My interests include **full-stack web development, databases, IoT, machine learning, data science, networking and problem solving**.
+What drives me is turning a rough idea into something people can actually click, use and break — then fixing it. Over the last few years that's meant shipping a full **PHP/MySQL e-commerce platform**, wiring up an **IoT attendance system** with an RC522 reader and a NodeMCU, and prototyping a **social-impact food redistribution concept**. I'm just as comfortable soldering a sensor as I am debugging a checkout flow at 1 a.m.
+
+Right now I'm deepening my skills in **full-stack web development, databases, machine learning and data science**, while staying close to the hardware side through **IoT and networking**. I learn best by shipping — so most of what's below started as a "let's see if this works" idea.
 
 <div align="center">
 
-| 🎓 Education | 💻 Development Focus | 📍 Based In |
+| 🎓 Education | 💻 Focus Areas | 📍 Based In |
 |:---:|:---:|:---:|
-| Diploma CSE • **9.4 / 10** | Web • Software • IoT | Madurai, Tamil Nadu |
+| Diploma CSE • **9.4 / 10 CGPA** | Web • Software • IoT • AI | Madurai, Tamil Nadu |
 
 </div>
 
 ---
 
-# ⚡ Technical Skills — Interactive-Style Sections
-
-> A colorful skill map instead of a traditional percentage/skill-bar layout.
-
-### 🌐 Web Development
+## 🧰 Languages & Tools
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-</div>
 
-### 💻 Programming
+<img src="https://skillicons.dev/icons?i=html,css,js,php,c,python,java,mysql,git,github,vscode,arduino&theme=dark" alt="Languages and tools"/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
+<br/><br/>
 
-### 🤖 AI, Data & Computer Science
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=plastic"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=plastic"/>
+<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=plastic"/>
+<img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=plastic&logo=githubcopilot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=plastic"/>
+<img src="https://img.shields.io/badge/Gamma-7C3AED?style=plastic"/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital%20Logic%20Design-DB2777?style=for-the-badge"/>
-</div>
-
-### 🗄️ Database, Network & Hardware
-
-<div align="center">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Hardware-16A34A?style=for-the-badge"/>
-</div>
-
-### 🧰 Development & Professional Tools
-
-<div align="center">
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Antigravity-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<br/>
-<img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS%20PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</div>
-
-### 🧠 AI Tools
-
-<div align="center">
-<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DeepSeek-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge"/>
 </div>
 
 ---
 
-# 🔄 How I Build Projects
+## 🔄 How I Build Projects
 
 ```mermaid
 flowchart LR
@@ -240,8 +177,8 @@ A responsive portfolio website built to present my **projects, education, certif
 
 **Technology:** `HTML` `CSS` `JavaScript`
 
-🌐 **Live Portfolio:**  
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00C2FF?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+🌐 **Live Portfolio:**
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-00C2FF?style=plastic&logo=vercel&logoColor=white"/></a>
 
 ---
 
@@ -279,7 +216,7 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 
 <div align="center"><img src="./assets/great-shopping.svg" width="92%" alt="Great Shopping E-Commerce Website"/></div>
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20DETAILS-16A34A?style=for-the-badge"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20DETAILS-16A34A?style=plastic"/></a>
 
 ---
 
@@ -341,49 +278,13 @@ flowchart LR
 
 ---
 
-# 🧩 Snake Setup
-
-The workflow is included at:
-
-```text
-.github/workflows/snake.yml
-```
-
-### Required setup
-
-1. Put this README and `.github/workflows/snake.yml` in the **`spiderboy-Manikandan` profile repository**.
-2. In **Settings → Actions → General**, allow GitHub Actions to run.
-3. In **Settings → Actions → General → Workflow permissions**, select **Read and write permissions**.
-4. Open **Actions → 🐍 Contribution Snake → Run workflow** once.
-5. The workflow creates/updates the **`output` branch**.
-6. The README image then loads from that branch.
-
----
-
-# 🎯 Current Learning Path
-
-```mermaid
-flowchart TD
-    A["01 • Programming<br/>C • Java • Python"]
-    --> B["02 • Web Development<br/>HTML • CSS • JavaScript • PHP"]
-    --> C["03 • Database<br/>MySQL"]
-    --> D["04 • Problem Solving<br/>DSA • Aptitude"]
-    --> E["05 • Backend<br/>PHP • Python / APIs"]
-    --> F["06 • Data & AI<br/>Data Science • Machine Learning"]
-    --> G["07 • Engineering Tools<br/>Git • GitHub • VS Code"]
-    --> H["08 • Career<br/>Software Developer"]
-    --> I["09 • Future<br/>Products • Entrepreneurship"]
-```
-
----
-
-# 🔘 Connect With Me
-
 <div align="center">
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20OPEN%20PORTFOLIO-00C2FF?style=for-the-badge"/></a>
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20VIEW%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20CONNECT%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D9FF&height=180&section=footer&animation=fadeIn"/>
+
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20OPEN%20PORTFOLIO-00C2FF?style=plastic"/></a>
+<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20VIEW%20GITHUB-181717?style=plastic&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20CONNECT%20LINKEDIN-0A66C2?style=plastic&logo=linkedin&logoColor=white"/></a>
 
 <br/><br/>
 
