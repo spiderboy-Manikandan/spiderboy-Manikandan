@@ -118,6 +118,8 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
 ## 🔄 How I Build Projects
@@ -198,6 +200,7 @@ Attendance Logic
 Google Sheets
     ↓
 Web Dashboard
+```
 
 <div align="center"><img src="./assets/rfid-attendance.svg" width="92%" alt="RFID Lab Attendance System"/></div>
 
@@ -224,7 +227,6 @@ flowchart LR
 - Food availability tracking
 - Social-impact reporting
 
-
 **Focus:** `Web Development` `MySQL` `Location Matching` `Notifications` `Social Impact`
 
 <div align="center"><img src="./assets/food-redistribution.svg" width="92%" alt="Food Redistribution System"/></div>
@@ -243,6 +245,7 @@ A responsive portfolio built to present my **projects, education, certificates, 
 <a href="https://github.com/spiderboy-Manikandan/Manikandan-Portfolio"><img src="https://img.shields.io/badge/VIEW%20REPO-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
+
 ## 🛒 05 — Great Shopping — E-Commerce Website ⭐ Featured
 
 A database-driven e-commerce project built with **PHP, MySQL, Bootstrap, JavaScript, HTML and CSS**, focusing on real-world CRUD, authentication, products, cart and order workflows.
@@ -270,7 +273,6 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 - 📦 Manage orders
 - 👥 Manage users
 - 📊 Admin dashboard
-
 
 **Technology:** `PHP` `MySQL` `Bootstrap 5.3.3` `JavaScript` `HTML` `CSS`
 
@@ -337,7 +339,7 @@ flowchart LR
   <img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
 </p>
 
-Auto-generated every day by the GitHub Action in `.github/workflows/snake.yml`. **This is the fix:** your workflow publishes the `dist/` folder's *contents* to the `output` branch root, so the file lives at `output/github-contribution-grid-snake.svg` — not `output/dist/...`. If it still doesn't render after you push this, go to the **Actions** tab and run "🐍 Contribution Snake" manually once so the `output` branch gets created.
+Auto-generated every day by the GitHub Action in `.github/workflows/snake.yml`. Your workflow publishes the `dist/` folder's *contents* to the `output` branch root, so the file lives at `output/github-contribution-grid-snake.svg` — not `output/dist/...`. If it doesn't render after you push, go to the **Actions** tab and run "🐍 Contribution Snake" manually once so the `output` branch gets created.
 
 ---
 
