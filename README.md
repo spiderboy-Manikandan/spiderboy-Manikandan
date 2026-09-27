@@ -12,11 +12,22 @@
 
 <br/><br/>
 
+<img src="https://img.shields.io/badge/🎓_CSE_STUDENT-6C5CE7?style=flat-square&labelColor=302b63"/>
+<img src="https://img.shields.io/badge/💻_SOFTWARE_DEVELOPER-C86DD7?style=flat-square&labelColor=302b63"/>
+<img src="https://img.shields.io/badge/🌐_FULL--STACK_DEVELOPER-FF6B9D?style=flat-square&labelColor=302b63"/>
+<img src="https://img.shields.io/badge/📡_IoT_ENTHUSIAST-6C5CE7?style=flat-square&labelColor=302b63"/>
+
+<br/><br/>
+
 </div>
 
 ---
 
 ## 👋 About Me
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:FF6B9D&height=55&section=header&text=Who%20I%20Am&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
+</div>
 
 I'm **Manikandan B** — a builder at heart, currently finishing my **Diploma in Computer Science & Engineering** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
 
@@ -38,25 +49,13 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" hspace="6" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="42" hspace="6" alt="CSS3"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" hspace="6" alt="JavaScript"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="42" hspace="6" alt="PHP"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" hspace="6" alt="Python"/>
-  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" hspace="6" alt="Java"/>
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" hspace="6" alt="C"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:C86DD7&height=55&section=header&text=Languages%20I%20Code%20In&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-</p>
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c&theme=dark" alt="HTML5, CSS3, JavaScript, PHP, Python, Java, C"/>
+</a>
 
 </div>
 
@@ -64,28 +63,18 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" hspace="6" alt="MySQL"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="42" hspace="6" alt="Git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="42" hspace="6" alt="GitHub"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" hspace="6" alt="VS Code"/>
-  <img src="https://cdn.simpleicons.org/arduino/00979D" width="42" hspace="6" alt="Arduino"/>
-  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="42" hspace="6" alt="Raspberry Pi / embedded hardware"/>
-  <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="42" hspace="6" alt="Google Sheets"/>
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="42" hspace="6" alt="Word"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" hspace="6" alt="Excel"/>
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="42" hspace="6" alt="PowerPoint"/>
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" hspace="6" alt="Cisco"/>
-  <img src="https://cdn.simpleicons.org/wireshark/167EC4" width="42" hspace="6" alt="Networking"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C86DD7,100:6C5CE7&height=55&section=header&text=Toolkits%20%26%20Hardware&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
+
+<br/><br/>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino,raspberrypi&theme=dark" alt="MySQL, Git, GitHub, VS Code, Arduino, Raspberry Pi"/>
+</a>
+
+<br/><br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
   <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
@@ -99,14 +88,9 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<p align="center">
-  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" hspace="6" alt="Gemini"/>
-  <img src="https://cdn.simpleicons.org/openai/10A37F" width="42" hspace="6" alt="ChatGPT"/>
-  <img src="https://cdn.simpleicons.org/anthropic/D97706" width="42" hspace="6" alt="Claude"/>
-  <img src="https://cdn.simpleicons.org/perplexity/22B8CF" width="42" hspace="6" alt="Perplexity"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot/181717" width="42" hspace="6" alt="GitHub Copilot"/>
-  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="42" hspace="6" alt="DeepSeek"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:C86DD7&height=55&section=header&text=AI%20Tools%20I%20Use&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
+
+<br/><br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
@@ -148,6 +132,10 @@ flowchart LR
 ---
 
 # 🚀 Projects — From Systems to Applications
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:C86DD7,100:FF6B9D&height=60&section=header&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=65" width="80%"/>
+</div>
 
 ## 🚌 01 — Online Bus Ticket Booking System
 
@@ -284,6 +272,10 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 
 # 🎓 Education & Study Journey
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:C86DD7&height=55&section=header&text=Education&fontSize=22&fontColor=ffffff&fontAlignY=65" width="70%"/>
+</div>
+
 ```mermaid
 flowchart LR
     A["🏫 Dhanapaul Middle School<br/>1–8 Std"] --> B["🏫 Dhanapaul Higher Secondary School<br/>9–10 Std"] --> C["💻 Tamil Nadu Government Polytechnic College, Madurai<br/>Diploma CSE • 2023–2026"]
@@ -297,6 +289,10 @@ flowchart LR
 ---
 
 # 📜 Certificates — What They Represent
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C86DD7,100:6C5CE7&height=55&section=header&text=Certificates&fontSize=22&fontColor=ffffff&fontAlignY=65" width="70%"/>
+</div>
 
 | Certificate / Achievement   | Provider                    | Result / Recognition        | What It Demonstrates                                        |
 | ---------------------------- | ---------------------------- | ----------------------------- | ------------------------------------------------------------- |
@@ -315,6 +311,10 @@ flowchart LR
 # 📊 GitHub Activity
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:6C5CE7&height=55&section=header&text=GitHub%20Activity&fontSize=22&fontColor=ffffff&fontAlignY=65" width="70%"/>
+</div>
+
+<div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&hide_border=true&count_private=false&theme=transparent&title_color=C86DD7&icon_color=FF6B9D&text_color=64748B" alt="GitHub statistics"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=C86DD7&text_color=64748B" alt="Top languages"/>
@@ -329,7 +329,15 @@ flowchart LR
 
 </div>
 
-> 💡 These cards are generated live by Vercel-hosted services. If one looks blank right after you push, give it a minute and refresh — it's a cold-start delay, not a broken link, as long as the username in the URL matches yours exactly.
+> ⚠️ **Why these sometimes show as broken images:** the stats card and top-languages card (`github-readme-stats.vercel.app`) and the activity graph (`github-readme-activity-graph.vercel.app`) are *shared public demo instances* used by millions of GitHub profiles worldwide. GitHub's API caps them at 5,000 requests/hour, so the shared instance frequently hits that limit and the images fail to load — this is a widely documented issue with the project, not something broken in your README or your account. The streak card (`streak-stats.demolab.com`) runs on a different, less congested service, which is why it renders fine while the other two don't.
+>
+> **The permanent fix — deploy your own free copy in ~2 minutes:**
+> 1. Go to [github-readme-stats on GitHub](https://github.com/anuraghazra/github-readme-stats) and click **Deploy to Vercel**.
+> 2. Sign in with your GitHub account and let it fork + deploy (free, on your own Vercel account, so you get your own private rate limit).
+> 3. Vercel gives you a URL like `https://github-readme-stats-yourname.vercel.app`.
+> 4. Replace `github-readme-stats.vercel.app` in the two image URLs above with your new domain. Do the same for [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) if that one also stays blank.
+>
+> Until you do that, just refresh the page after a minute or two — it often resolves itself when the shared instance's rate limit window rolls over.
 
 ---
 
@@ -345,16 +353,29 @@ Auto-generated every day by the GitHub Action in `.github/workflows/snake.yml`. 
 
 ## 🔘 Let's Connect
 
-I'm always open to internship opportunities, freelance web/IoT work, or just talking tech.
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=60&section=header&text=Let's%20Build%20Something&fontSize=22&fontColor=ffffff&fontAlignY=65" width="80%"/>
+</div>
 
-<p align="center">
-  <a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
+I'm actively looking for **internship opportunities**, open to **freelance web/IoT work**, and always happy to talk tech, debug something together, or just connect. I usually reply within a day.
+
+<div align="center">
+
+**💼 Professional**
+
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+
+<br/><br/>
+
+**💬 Direct & Quick**
+
+<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</div>
 
 <p align="center">📍 Madurai, Tamil Nadu, India · 🤖 Or ask my <a href="https://manikandan-portfolio-kdhi.vercel.app/#contact">portfolio AI assistant</a> — it knows my skills, projects and education</p>
 
