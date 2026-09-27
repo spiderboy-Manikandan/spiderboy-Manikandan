@@ -321,7 +321,7 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderboy-Manikandan&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+<img src="github-readme-stats-o2huwka3b-compmanikandanb23-9200s-projects.vercel.app/graph?username=spiderboy-Manikandan&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
 
 <br/><br/>
 
