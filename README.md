@@ -9,6 +9,27 @@
 <a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B9D?style=for-the-badge"/></a>
 <a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/📩%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/💬%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="./assets/hero-animated.svg" width="100%" alt="Animated hero banner"/>
+
+</div>
+
+---
+
+## 🧭 Quick Navigation
+
+<div align="center">
+
+| I'm a... | Best place to look |
+|---|---|
+| 👔 **Recruiter** | [🌐 Live Portfolio](https://manikandan-portfolio-kdhi.vercel.app/) → [💼 LinkedIn](https://www.linkedin.com/in/manikandan-b-968bab348/) |
+| 💻 **Fellow Developer** | [📂 Repositories](https://github.com/spiderboy-Manikandan?tab=repositories) → [🛒 Great Shopping (featured)](https://github.com/spiderboy-Manikandan) |
+| 🎓 **Fellow Student / Mentor** | [🎓 Education & Certificates](#-education--study-journey) |
+| 🤝 **Wants to collaborate** | [🔘 Let's Connect](#-lets-connect) |
 
 </div>
 
@@ -16,7 +37,7 @@
 
 ## 👋 About Me
 
-I'm **Manikandan B** — a builder at heart, a **Diploma in Computer Science & Engineering graduate** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
+I'm **Manikandan B** — a builder at heart, currently finishing my **Diploma in Computer Science & Engineering** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
 
 What drives me is turning a rough idea into something people can actually click, use and break — then fixing it. Over the last few years that's meant shipping a full **PHP/MySQL e-commerce platform**, wiring up an **IoT attendance system** with an RC522 reader and a NodeMCU, and prototyping a **social-impact food redistribution concept**. I'm just as comfortable soldering a sensor as I am debugging a checkout flow at 1 a.m.
 
@@ -24,9 +45,9 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-| 🎓 Education | 💻 Focus Areas | 📍 Based In |
-|:---:|:---:|:---:|
-| Diploma CSE • **9.4 / 10 CGPA** | Web • Software • IoT • AI | Madurai, Tamil Nadu |
+| 🎓 Education                     | 💻 Focus Areas             | 📍 Based In          |
+| ------------------------------- | ------------------------- | -------------------- |
+| Diploma CSE • **9.4 / 10 CGPA** | Web • Software • IoT • AI | Madurai, Tamil Nadu  |
 
 </div>
 
@@ -37,23 +58,23 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 <div align="center">
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" hspace="6" alt="HTML5 logo"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="42" hspace="6" alt="CSS3 logo"/>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" hspace="6" alt="JavaScript logo"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="42" hspace="6" alt="PHP logo"/>
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" hspace="6" alt="Python logo"/>
-  <img src="https://cdn.simpleicons.org/java/ED8B00" width="42" hspace="6" alt="Java logo"/>
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" hspace="6" alt="C programming logo"/>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" hspace="6" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/css3/1572B6" width="42" hspace="6" alt="CSS3"/>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" hspace="6" alt="JavaScript"/>
+  <img src="https://cdn.simpleicons.org/php/777BB4" width="42" hspace="6" alt="PHP"/>
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="42" hspace="6" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/openjdk/ED8B00" width="42" hspace="6" alt="Java"/>
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="42" hspace="6" alt="C"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" hspace="6"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black" hspace="6"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%20Programming-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 </p>
 
 </div>
@@ -63,33 +84,32 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 <div align="center">
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" hspace="6" alt="MySQL logo"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="42" hspace="6" alt="Git logo"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="42" hspace="6" alt="GitHub logo"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" hspace="6" alt="Visual Studio Code logo"/>
-  <img src="https://cdn.simpleicons.org/arduino/00979D" width="42" hspace="6" alt="Arduino logo"/>
-  <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="42" hspace="6" alt="Google Sheets logo"/>
-  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="42" hspace="6" alt="Microsoft Word logo"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" hspace="6" alt="Microsoft Excel logo"/>
-  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="42" hspace="6" alt="Microsoft PowerPoint logo"/>
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" hspace="6" alt="Cisco logo"/>
-  <img src="https://cdn.simpleicons.org/wireshark/167EC4" width="42" hspace="6" alt="Computer Network logo"/>
-  <img src="https://cdn.simpleicons.org/cpu/16A34A" width="42" hspace="6" alt="System Hardware logo"/>
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="42" hspace="6" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="42" hspace="6" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="42" hspace="6" alt="GitHub"/>
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="42" hspace="6" alt="VS Code"/>
+  <img src="https://cdn.simpleicons.org/arduino/00979D" width="42" hspace="6" alt="Arduino"/>
+  <img src="https://cdn.simpleicons.org/raspberrypi/A22846" width="42" hspace="6" alt="Raspberry Pi / embedded hardware"/>
+  <img src="https://cdn.simpleicons.org/googlesheets/34A853" width="42" hspace="6" alt="Google Sheets"/>
+  <img src="https://cdn.simpleicons.org/microsoftword/2B579A" width="42" hspace="6" alt="Word"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" width="42" hspace="6" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/microsoftpowerpoint/B7472A" width="42" hspace="6" alt="PowerPoint"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="42" hspace="6" alt="Cisco"/>
+  <img src="https://cdn.simpleicons.org/wireshark/167EC4" width="42" hspace="6" alt="Networking"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Computer%20Network-059669?style=for-the-badge&logo=wireshark&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/System%20Hardware-16A34A?style=for-the-badge&logo=cpu&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Networking-059669?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
 </div>
@@ -99,26 +119,25 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 <div align="center">
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" hspace="6" alt="Gemini logo"/>
-  <img src="https://cdn.simpleicons.org/openai/10A37F" width="42" hspace="6" alt="ChatGPT logo"/>
-  <img src="https://cdn.simpleicons.org/anthropic/D97706" width="42" hspace="6" alt="Claude logo"/>
-  <img src="https://cdn.simpleicons.org/perplexity/22B8CF" width="42" hspace="6" alt="Perplexity logo"/>
-  <img src="https://cdn.simpleicons.org/githubcopilot/181717" width="42" hspace="6" alt="GitHub Copilot logo"/>
-  <img src="https://cdn.simpleicons.org/gamma/7C3AED" width="42" hspace="6" alt="Gamma logo"/>
-  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="42" hspace="6" alt="DeepSeek logo"/>
+  <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="42" hspace="6" alt="Gemini"/>
+  <img src="https://cdn.simpleicons.org/openai/10A37F" width="42" hspace="6" alt="ChatGPT"/>
+  <img src="https://cdn.simpleicons.org/anthropic/D97706" width="42" hspace="6" alt="Claude"/>
+  <img src="https://cdn.simpleicons.org/perplexity/22B8CF" width="42" hspace="6" alt="Perplexity"/>
+  <img src="https://cdn.simpleicons.org/githubcopilot/181717" width="42" hspace="6" alt="GitHub Copilot"/>
+  <img src="https://cdn.simpleicons.org/deepseek/4D6BFE" width="42" hspace="6" alt="DeepSeek"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Perplexity-22B8CF?style=for-the-badge&logo=perplexity&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge&logo=gamma&logoColor=white" hspace="6"/>
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white" hspace="6"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Perplexity-22B8CF?style=for-the-badge&logo=perplexity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
 </p>
 
-</div>
+> 💡 A couple of icons above (like `cpu` for "hardware" and `gamma`) don't exist in the Simple Icons library — that's exactly why they weren't showing up before. I swapped them for real, verified slugs (`raspberrypi`, `openjdk`, `wireshark`) and left `Gamma` as a plain badge with no logo, so nothing 404s.
 
 ---
 
@@ -149,145 +168,63 @@ flowchart LR
 
 # 🚀 Projects — From Systems to Applications
 
-## 🚌 01 — Online Bus Ticket Booking System
-
-A **PHP + MySQL full-stack booking application** for managing users, buses, routes, passengers, seats and bookings.
-
-**Highlights**
-- 👤 User registration, login and authentication
-- 🚌 Bus, route and fare management
-- 💺 Seat selection and seat availability
-- 🎫 Ticket generation / printing
-- 💳 Booking and payment workflow concept
-- 🧑‍💼 Admin dashboard and management
-- 🗄️ MySQL database integration
-
-**Technology:** `HTML` `CSS` `Bootstrap` `JavaScript` `PHP` `MySQL`
-
-<div align="center"><img src="./assets/bus-booking.svg" width="92%" alt="Online Bus Ticket Booking System"/></div>
-
----
-
-## 📡 02 — RFID Lab Attendance System
-
-An **IoT-based attendance system** connecting RFID hardware with software to record student attendance.
-
-**Hardware**
-- NodeMCU ESP8266
-- RC522 RFID reader
-- I2C LCD
-- Buzzer
-
-**Software / Integration**
-- Arduino IDE
-- Google Sheets / Sheets API
-- Attendance dashboard concept
-- Date, time, name and status tracking
-
-**System Flow**
-
-```text
-RFID CARD
-    ↓
-RC522 READER
-    ↓
-NodeMCU ESP8266
-    ↓
-Attendance Logic
-    ↓
-Google Sheets
-    ↓
-Web Dashboard
-```
-
-**Technology:** `C/C++` `NodeMCU` `RFID` `Arduino IDE` `Google Sheets API`
-
-<div align="center"><img src="./assets/rfid-attendance.svg" width="92%" alt="RFID Lab Attendance System"/></div>
-
----
-
-## 🍱 03 — Food Redistribution System
-
-A social-impact project concept connecting **restaurants, hotels and events** with **NGOs and volunteers** to help redistribute surplus food.
-
-```mermaid
-flowchart LR
-    A["🍽️ FOOD DONOR"] --> B["📍 LOCATION MATCH"]
-    B --> C["🔔 VOLUNTEER"]
-    C --> D["🚚 PICKUP"]
-    D --> E["🤝 NGO / COMMUNITY"]
-```
-
-**Core Features**
-- Food donor registration
-- Location and availability matching
-- Volunteer pickup coordination
-- Notifications
-- Donor / volunteer / NGO roles
-- Food availability tracking
-- Social-impact reporting
-
-**Focus:** `Web Development` `MySQL` `Location Matching` `Notifications` `Social Impact`
-
-<div align="center"><img src="./assets/food-redistribution.svg" width="92%" alt="Food Redistribution System"/></div>
-
----
-
-## 💻 04 — Personal Portfolio Website
-
-A responsive portfolio website built to present my **projects, education, certificates, skills and contact information**.
-
-**Highlights from the portfolio**
-- 🖥️ 3D animated desktop environment
-- 🌗 Dark / light mode
-- 🎮 Interactive games (Memory Match, Guess the Number, Tic-Tac-Toe AI, Rock-Paper-Scissors, Typing Speed Test)
-- ✨ Scroll and page animations
-- 📩 Contact form integration
-- 📜 Resume and certificate section
-- 🤖 AI assistant interface that answers questions about my skills, projects and education
-
-**Technology:** `HTML` `CSS` `JavaScript`
-
-🌐 **Live Portfolio:**
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20PORTFOLIO-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
----
-
-## 🛒 05 — Great Shopping — E-Commerce Website
-
-> ⭐ **Latest / Featured Application**
+## 🛒 01 — Great Shopping — E-Commerce Website ⭐ Featured
 
 A database-driven e-commerce project built with **PHP, MySQL, Bootstrap, JavaScript, HTML and CSS**, focusing on real-world CRUD, authentication, products, cart and order workflows.
-
-### 🛍️ Customer Side
-
-```text
-LOGIN / REGISTER
-       ↓
-PRODUCTS → CATEGORY → PRODUCT DETAILS
-       ↓
-   CART / WISHLIST
-       ↓
-    CHECKOUT
-       ↓
-     ORDER
-       ↓
-   MY ORDERS
-```
-
-### 🧑‍💼 Admin Side
-
-- ➕ Add / manage categories
-- ➕ Add / manage products
-- 📦 Manage orders
-- 👥 Manage users
-- 📊 Admin dashboard
 
 **Technology:** `PHP` `MySQL` `Bootstrap 5.3.3` `JavaScript` `HTML` `CSS`
 
 <div align="center"><img src="./assets/great-shopping.svg" width="92%" alt="Great Shopping E-Commerce Website"/></div>
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/VIEW%20PROJECT%20DETAILS-16A34A?style=for-the-badge"/></a>
+> ⚠️ **Not yet a public repo.** This is your strongest, most recent project — push it to a repo named e.g. `great-shopping-ecommerce` so recruiters can actually open the code, not just read about it here.
+
+---
+
+## 🚌 02 — Online Bus Ticket Booking System
+
+A **PHP + MySQL full-stack booking application** for managing users, buses, routes, passengers, seats and bookings.
+
+**Technology:** `HTML` `CSS` `Bootstrap` `JavaScript` `PHP` `MySQL`
+
+<div align="center"><img src="./assets/bus-booking.svg" width="92%" alt="Online Bus Ticket Booking System"/></div>
+
+<a href="https://github.com/spiderboy-Manikandan/online-Bus-Ticket-Booking"><img src="https://img.shields.io/badge/VIEW%20REPO-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+---
+
+## 📡 03 — RFID Lab Attendance System
+
+An **IoT-based attendance system** connecting RFID hardware with software to record student attendance.
+
+**Hardware:** NodeMCU ESP8266 · RC522 RFID reader · I2C LCD · Buzzer
+**Technology:** `C/C++` `NodeMCU` `RFID` `Arduino IDE` `Google Sheets API`
+
+<div align="center"><img src="./assets/rfid-attendance.svg" width="92%" alt="RFID Lab Attendance System"/></div>
+
+> ⚠️ **Not yet a public repo** — push the Arduino sketch + Sheets integration code here.
+
+---
+
+## 🍱 04 — Food Redistribution System (Concept)
+
+A social-impact project concept connecting **restaurants, hotels and events** with **NGOs and volunteers** to help redistribute surplus food.
+
+**Focus:** `Web Development` `MySQL` `Location Matching` `Notifications` `Social Impact`
+
+<div align="center"><img src="./assets/food-redistribution.svg" width="92%" alt="Food Redistribution System"/></div>
+
+> ⚠️ **Concept stage** — even a basic working prototype pushed as a repo will outweigh a polished diagram.
+
+---
+
+## 💻 05 — Personal Portfolio Website
+
+A responsive portfolio built to present my **projects, education, certificates, skills and contact information**, featuring a 3D animated desktop environment, dark/light mode, interactive mini-games, and an AI assistant that answers questions about my work.
+
+**Technology:** `HTML` `CSS` `JavaScript`
+
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20PORTFOLIO-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/spiderboy-Manikandan/Manikandan-Portfolio"><img src="https://img.shields.io/badge/VIEW%20REPO-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 ---
 
@@ -295,29 +232,27 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 
 ```mermaid
 flowchart LR
-    A["🏫 Dhanapaul Middle School<br/>1–8 Std"] -->
-    B["🏫 Dhanapaul Higher Secondary School<br/>9–10 Std"] -->
-    C["💻 Tamil Nadu Government Polytechnic College, Madurai<br/>Diploma CSE • 2023–2026"]
+    A["🏫 Dhanapaul Middle School<br/>1–8 Std"] --> B["🏫 Dhanapaul Higher Secondary School<br/>9–10 Std"] --> C["💻 Tamil Nadu Government Polytechnic College, Madurai<br/>Diploma CSE • 2023–2026"]
 ```
 
-| Period | Qualification | Institution | Result |
-|---|---|---|---|
+| Period        | Qualification                             | Institution                                        | Result            |
+| ------------- | ------------------------------------------ | --------------------------------------------------- | ------------------ |
 | **2023–2026** | Diploma in Computer Science & Engineering | Tamil Nadu Government Polytechnic College, Madurai | **9.4 / 10 CGPA** |
-| **2022–2023** | SSLC / 10th | Dhanapaul Higher Secondary School, Madurai | **77%** |
+| **2022–2023** | SSLC / 10th                               | Dhanapaul Higher Secondary School, Madurai         | **77%**           |
 
 ---
 
 # 📜 Certificates — What They Represent
 
-| Certificate / Achievement | Provider | Result / Recognition | What It Demonstrates |
-|---|---|---:|---|
-| 🐍 **Python Training** | Spoken Tutorial, IIT Bombay | **95%** | Python fundamentals, scripting and programming practice |
-| 🌐 **HTML Training** | Spoken Tutorial, IIT Bombay | **95%** | HTML structure and web-page development fundamentals |
-| 🎨 **CSS Training** | Spoken Tutorial, IIT Bombay | — | Responsive styling, animation techniques and UI design |
-| 🎓 **EduPyramids Training** | SINE, IIT Bombay | **85%** | Technical training and practical learning |
-| 🔐 **Cybersecurity Seminar** | IUNOWARE | **Outstanding Performance** | Participation and performance in cybersecurity learning |
-| 🌐 **Computer Networking** | NM Program | — | LAN/WAN concepts, connectivity and structured communication |
-| 🗣️ **English Essentials** | NM Program | — | Communication skills and professional expression |
+| Certificate / Achievement   | Provider                    | Result / Recognition        | What It Demonstrates                                        |
+| ---------------------------- | ---------------------------- | ----------------------------- | ------------------------------------------------------------- |
+| 🐍 **Python Training**       | Spoken Tutorial, IIT Bombay | **95%**                     | Python fundamentals, scripting and programming practice     |
+| 🌐 **HTML Training**         | Spoken Tutorial, IIT Bombay | **95%**                     | HTML structure and web-page development fundamentals        |
+| 🎨 **CSS Training**          | Spoken Tutorial, IIT Bombay | —                            | Responsive styling, animation techniques and UI design      |
+| 🎓 **EduPyramids Training**  | SINE, IIT Bombay            | **85%**                     | Technical training and practical learning                   |
+| 🔐 **Cybersecurity Seminar** | IUNOWARE                    | **Outstanding Performance** | Participation and performance in cybersecurity learning     |
+| 🌐 **Computer Networking**   | NM Program                  | —                            | LAN/WAN concepts, connectivity and structured communication |
+| 🗣️ **English Essentials**    | NM Program                  | —                            | Communication skills and professional expression             |
 
 > 📌 Full certificate gallery — including college and school mark sheets — is on the [portfolio](https://manikandan-portfolio-kdhi.vercel.app/#certificates).
 
@@ -340,23 +275,44 @@ flowchart LR
 
 </div>
 
+> 💡 These cards are generated live by Vercel-hosted services. If one looks blank right after you push, give it a minute and refresh — it's a cold-start delay, not a broken link, as long as the username in the URL matches yours exactly.
+
 ---
 
-<!-- 🐍 Contribution Snake -->
-
-<h2 align="center">🐍 Contribution Activity</h2>
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/dist/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
-    width="100%"
-  />
+  <img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
 </p>
 
-<hr>
+Auto-generated every day by the GitHub Action in `.github/workflows/snake.yml`. **This is the fix:** your workflow publishes the `dist/` folder's *contents* to the `output` branch root, so the file lives at `output/github-contribution-grid-snake.svg` — not `output/dist/...`. If it still doesn't render after you push this, go to the **Actions** tab and run "🐍 Contribution Snake" manually once so the `output` branch gets created.
 
-## ⭐ Thanks for visiting my profile!
+---
+
+## 🔘 Let's Connect
+
+I'm always open to internship opportunities, freelance web/IoT work, or just talking tech.
+
+<p align="center">
+  <a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+
+<p align="center">📍 Madurai, Tamil Nadu, India · 🤖 Or ask my <a href="https://manikandan-portfolio-kdhi.vercel.app/#contact">portfolio AI assistant</a> — it knows my skills, projects and education</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=180&section=footer&animation=twinkling" width="100%"/>
+
+`LEARN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE` → `REPEAT`
+
+### ⭐ Thanks for visiting my profile!
 
 **Let's connect, learn and build something useful together. 🚀**
 
