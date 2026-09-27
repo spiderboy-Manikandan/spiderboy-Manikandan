@@ -316,12 +316,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&hide_border=true&count_private=false&theme=transparent&title_color=C86DD7&icon_color=FF6B9D&text_color=64748B" alt="GitHub statistics"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=C86DD7&text_color=64748B" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats-ruby-ten-10.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&hide_border=true&count_private=false&theme=transparent&title_color=C86DD7&icon_color=FF6B9D&text_color=64748B" alt="GitHub statistics"/>
+<img height="180" src="https://github-readme-stats-ruby-ten-10.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=C86DD7&text_color=64748B" alt="Top languages"/>
 
 <br/><br/>
 
-<img src="github-readme-stats-o2huwka3b-compmanikandanb23-9200s-projects.vercel.app/graph?username=spiderboy-Manikandan&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderboy-Manikandan&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
 
 <br/><br/>
 
@@ -329,15 +329,9 @@ flowchart LR
 
 </div>
 
-> ⚠️ **Why these sometimes show as broken images:** the stats card and top-languages card (`github-readme-stats.vercel.app`) and the activity graph (`github-readme-activity-graph.vercel.app`) are *shared public demo instances* used by millions of GitHub profiles worldwide. GitHub's API caps them at 5,000 requests/hour, so the shared instance frequently hits that limit and the images fail to load — this is a widely documented issue with the project, not something broken in your README or your account. The streak card (`streak-stats.demolab.com`) runs on a different, less congested service, which is why it renders fine while the other two don't.
+> ✅ **GitHub statistics** and **Top languages** now run on your own self-hosted instance (`github-readme-stats-ruby-ten-10.vercel.app`), so they won't hit the shared rate limit anymore.
 >
-> **The permanent fix — deploy your own free copy in ~2 minutes:**
-> 1. Go to [github-readme-stats on GitHub](https://github.com/anuraghazra/github-readme-stats) and click **Deploy to Vercel**.
-> 2. Sign in with your GitHub account and let it fork + deploy (free, on your own Vercel account, so you get your own private rate limit).
-> 3. Vercel gives you a URL like `https://github-readme-stats-yourname.vercel.app`.
-> 4. Replace `github-readme-stats.vercel.app` in the two image URLs above with your new domain. Do the same for [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) if that one also stays blank.
->
-> Until you do that, just refresh the page after a minute or two — it often resolves itself when the shared instance's rate limit window rolls over.
+> The **activity graph** below still uses the shared public `github-readme-activity-graph.vercel.app` instance and can occasionally show blank for the same reason. If that happens, repeat the same fork → Vercel import steps for [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) and swap that domain too.
 
 ---
 
