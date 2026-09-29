@@ -63,7 +63,7 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C86DD7,100:6C5CE7&height=55&section=header&text=Toolkits%20%26%20Hardware&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C86DD7,100:6C5CE7&height=55&section=header&text=Toolkits%20and%20Hardware&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
 
 <br/><br/>
 
@@ -98,7 +98,7 @@ Right now I'm deepening my skills in **full-stack web development, databases, ma
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Perplexity-22B8CF?style=for-the-badge&logo=perplexity&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gamma-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎨_Gamma-7C3AED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
 </p>
 
@@ -134,7 +134,7 @@ flowchart LR
 # 🚀 Projects — From Systems to Applications
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:C86DD7,100:FF6B9D&height=60&section=header&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=65" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:C86DD7,100:FF6B9D&height=60&section=header&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=65" width="70%"/>
 </div>
 
 ## 🚌 01 — Online Bus Ticket Booking System
@@ -321,7 +321,7 @@ flowchart LR
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=spiderboy-Manikandan&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
+<img src="https://github-readme-activity-graph-one-neon.vercel.app/graph?username=spiderboy-Manikandan&theme=react-dark&hide_border=true&area=true" alt="Contribution activity graph" width="100%"/>
 
 <br/><br/>
 
@@ -329,9 +329,7 @@ flowchart LR
 
 </div>
 
-> ✅ **GitHub statistics** and **Top languages** now run on your own self-hosted instance (`github-readme-stats-ruby-ten-10.vercel.app`), so they won't hit the shared rate limit anymore.
->
-> The **activity graph** below still uses the shared public `github-readme-activity-graph.vercel.app` instance and can occasionally show blank for the same reason. If that happens, repeat the same fork → Vercel import steps for [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) and swap that domain too.
+> ✅ All three cards above — **GitHub statistics**, **Top languages**, and the **activity graph** — now run on your own self-hosted Vercel instances, so none of them should hit the shared rate limit anymore.
 
 ---
 
@@ -348,7 +346,7 @@ Auto-generated every day by the GitHub Action in `.github/workflows/snake.yml`. 
 ## 🔘 Let's Connect
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=60&section=header&text=Let's%20Build%20Something&fontSize=22&fontColor=ffffff&fontAlignY=65" width="80%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=60&section=header&text=Lets%20Build%20Something&fontSize=22&fontColor=ffffff&fontAlignY=65" width="70%"/>
 </div>
 
 I'm actively looking for **internship opportunities**, open to **freelance web/IoT work**, and always happy to talk tech, debug something together, or just connect. I usually reply within a day.
