@@ -24,7 +24,7 @@
 
 <br/>
 
-<div align="center"><img src="./assets/headers/about.svg" width="100%" alt="About me"/></div>
+<div align="center"><img src="./assets/h-about.svg" width="100%" alt="About me"/></div>
 
 I'm **Manikandan B** — a builder at heart, currently finishing my **Diploma in Computer Science & Engineering** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
 
@@ -38,7 +38,7 @@ What drives me is turning a rough idea into something people can actually click,
 
 </div>
 
-<div align="center"><img src="./assets/headers/now.svg" width="100%" alt="Currently"/></div>
+<div align="center"><img src="./assets/h-now.svg" width="100%" alt="Currently"/></div>
 
 | 🔭 Learning                                         | 🛠️ Building                              | 🤝 Open to                                 |
 | --------------------------------------------------- | ---------------------------------------- | ------------------------------------------ |
@@ -46,7 +46,7 @@ What drives me is turning a rough idea into something people can actually click,
 
 <br/>
 
-<div align="center"><img src="./assets/headers/languages.svg" width="100%" alt="Languages I code in"/></div>
+<div align="center"><img src="./assets/h-languages.svg" width="100%" alt="Languages I code in"/></div>
 
 <div align="center">
 
@@ -54,7 +54,7 @@ What drives me is turning a rough idea into something people can actually click,
 
 </div>
 
-<div align="center"><img src="./assets/headers/tools.svg" width="100%" alt="Developer toolkit and hardware"/></div>
+<div align="center"><img src="./assets/h-tools.svg" width="100%" alt="Developer toolkit and hardware"/></div>
 
 <div align="center">
 
@@ -71,7 +71,7 @@ What drives me is turning a rough idea into something people can actually click,
 
 </div>
 
-<div align="center"><img src="./assets/headers/ai-tools.svg" width="100%" alt="AI tools I use"/></div>
+<div align="center"><img src="./assets/h-ai-tools.svg" width="100%" alt="AI tools I use"/></div>
 
 <div align="center">
 
@@ -81,7 +81,7 @@ What drives me is turning a rough idea into something people can actually click,
 
 <br/>
 
-<div align="center"><img src="./assets/headers/workflow.svg" width="100%" alt="How I build projects"/></div>
+<div align="center"><img src="./assets/h-workflow.svg" width="100%" alt="How I build projects"/></div>
 
 ```mermaid
 flowchart LR
@@ -106,7 +106,7 @@ flowchart LR
 
 ---
 
-<div align="center"><img src="./assets/headers/projects.svg" width="100%" alt="Projects"/></div>
+<div align="center"><img src="./assets/h-projects.svg" width="100%" alt="Projects"/></div>
 
 ### 🚌 01 — Online Bus Ticket Booking System
 
@@ -240,7 +240,7 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 
 ---
 
-<div align="center"><img src="./assets/headers/education.svg" width="100%" alt="Education and study journey"/></div>
+<div align="center"><img src="./assets/h-education.svg" width="100%" alt="Education and study journey"/></div>
 
 ```mermaid
 flowchart LR
@@ -254,7 +254,7 @@ flowchart LR
 
 ---
 
-<div align="center"><img src="./assets/headers/certificates.svg" width="100%" alt="Certificates"/></div>
+<div align="center"><img src="./assets/h-certificates.svg" width="100%" alt="Certificates"/></div>
 
 | Certificate / Achievement    | Provider                    | Result / Recognition        | What It Demonstrates                                        |
 | ---------------------------- | --------------------------- | --------------------------- | ----------------------------------------------------------- |
@@ -270,15 +270,15 @@ flowchart LR
 
 ---
 
-<div align="center"><img src="./assets/headers/activity.svg" width="100%" alt="GitHub activity"/></div>
+<div align="center"><img src="./assets/h-activity.svg" width="100%" alt="GitHub activity"/></div>
 
-<div align="center"><img src="./assets/headers/map3d.svg" width="100%" alt="3D contribution map"/></div>
+<div align="center"><img src="./assets/h-map3d.svg" width="100%" alt="3D contribution map"/></div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution map"/>
 </div>
 
-<div align="center"><img src="./assets/headers/stats.svg" width="100%" alt="Stats and top languages"/></div>
+<div align="center"><img src="./assets/h-stats.svg" width="100%" alt="Stats and top languages"/></div>
 
 <div align="center">
 
@@ -287,7 +287,7 @@ flowchart LR
 
 </div>
 
-<div align="center"><img src="./assets/headers/graph.svg" width="100%" alt="Contribution graph"/></div>
+<div align="center"><img src="./assets/h-graph.svg" width="100%" alt="Contribution graph"/></div>
 
 <div align="center">
 
@@ -295,7 +295,7 @@ flowchart LR
 
 </div>
 
-<div align="center"><img src="./assets/headers/streak.svg" width="100%" alt="Streak and trophies"/></div>
+<div align="center"><img src="./assets/h-streak.svg" width="100%" alt="Streak and trophies"/></div>
 
 <div align="center">
 
@@ -307,7 +307,7 @@ flowchart LR
 
 </div>
 
-<div align="center"><img src="./assets/headers/snake.svg" width="100%" alt="Contribution snake"/></div>
+<div align="center"><img src="./assets/h-snake.svg" width="100%" alt="Contribution snake"/></div>
 
 <p align="center">
   <picture>
@@ -319,7 +319,7 @@ flowchart LR
 
 ---
 
-<div align="center"><img src="./assets/headers/connect.svg" width="100%" alt="Let's build something"/></div>
+<div align="center"><img src="./assets/h-connect.svg" width="100%" alt="Let's build something"/></div>
 
 I'm actively looking for **internship opportunities**, open to **freelance web/IoT work**, and always happy to talk tech, debug something together, or just connect. I usually reply within a day.
 
