@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/hero-animated.svg" width="100%" alt="Animated hero banner"/>
+<img src="./assets/hero-animated.svg" width="100%" alt="Manikandan B — Computer Science Engineering, Software Developer, Full-Stack Developer"/>
+
+<img src="./assets/typing.svg" width="78%" alt="Typing animation: Computer Science Engineering Student, Full-Stack Web Developer, Software Developer, IoT Enthusiast"/>
 
 <br/>
 
@@ -16,97 +18,70 @@
 <img src="https://img.shields.io/badge/💻_SOFTWARE_DEVELOPER-C86DD7?style=flat-square&labelColor=302b63"/>
 <img src="https://img.shields.io/badge/🌐_FULL--STACK_DEVELOPER-FF6B9D?style=flat-square&labelColor=302b63"/>
 <img src="https://img.shields.io/badge/📡_IoT_ENTHUSIAST-6C5CE7?style=flat-square&labelColor=302b63"/>
-
-<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=spiderboy-Manikandan&label=PROFILE+VIEWS&color=C86DD7&style=flat-square" alt="Profile views"/>
 
 </div>
 
----
+<br/>
 
-## 👋 About Me
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:FF6B9D&height=55&section=header&text=Who%20I%20Am&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
-</div>
+<div align="center"><img src="./assets/headers/about.svg" width="100%" alt="About me"/></div>
 
 I'm **Manikandan B** — a builder at heart, currently finishing my **Diploma in Computer Science & Engineering** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
 
 What drives me is turning a rough idea into something people can actually click, use and break — then fixing it. Over the last few years that's meant shipping a full **PHP/MySQL e-commerce platform**, wiring up an **IoT attendance system** with an RC522 reader and a NodeMCU, and prototyping a **social-impact food redistribution concept**. I'm just as comfortable soldering a sensor as I am debugging a checkout flow at 1 a.m.
 
-Right now I'm deepening my skills in **full-stack web development, databases, machine learning and data science**, while staying close to the hardware side through **IoT and networking**. I learn best by shipping — so most of what's below started as a "let's see if this works" idea.
-
 <div align="center">
 
-| 🎓 Education                     | 💻 Focus Areas             | 📍 Based In          |
-| ------------------------------- | ------------------------- | -------------------- |
-| Diploma CSE • **9.4 / 10 CGPA** | Web • Software • IoT • AI | Madurai, Tamil Nadu  |
+| 🎓 Education                     | 💻 Focus Areas             | 📍 Based In         |
+| ------------------------------- | ------------------------- | ------------------- |
+| Diploma CSE • **9.4 / 10 CGPA** | Web • Software • IoT • AI | Madurai, Tamil Nadu |
 
 </div>
 
----
+<div align="center"><img src="./assets/headers/now.svg" width="100%" alt="Currently"/></div>
 
-## 🧑‍💻 Languages
+| 🔭 Learning                                         | 🛠️ Building                              | 🤝 Open to                                 |
+| --------------------------------------------------- | ---------------------------------------- | ------------------------------------------ |
+| Full-stack web, databases, machine learning, data science, networking | PHP / MySQL apps and IoT prototypes | **Internships** • **Freelance web / IoT work** |
 
-<div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:C86DD7&height=55&section=header&text=Languages%20I%20Code%20In&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c&theme=dark" alt="HTML5, CSS3, JavaScript, PHP, Python, Java, C"/>
-</a>
-
-</div>
-
-## 🧰 Developer Toolkits & Hardware
+<div align="center"><img src="./assets/headers/languages.svg" width="100%" alt="Languages I code in"/></div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C86DD7,100:6C5CE7&height=55&section=header&text=Toolkits%20and%20Hardware&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
-
-<br/><br/>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino,raspberrypi&theme=dark" alt="MySQL, Git, GitHub, VS Code, Arduino, Raspberry Pi"/>
-</a>
-
-<br/><br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Networking-059669?style=for-the-badge&logo=wireshark&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,bootstrap,numpy,pandas&theme=dark&perline=10" alt="HTML, CSS, JavaScript, PHP, Python, Java, C, Bootstrap, NumPy, Pandas"/>
 
 </div>
 
-## 🤖 AI Tools
+<div align="center"><img src="./assets/headers/tools.svg" width="100%" alt="Developer toolkit and hardware"/></div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:C86DD7&height=55&section=header&text=AI%20Tools%20I%20Use&fontSize=20&fontColor=ffffff&fontAlignY=65" width="70%"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino,raspberrypi,linux&theme=dark&perline=10" alt="MySQL, Git, GitHub, VS Code, Arduino, Raspberry Pi, Linux"/>
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Perplexity-22B8CF?style=for-the-badge&logo=perplexity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎨_Gamma-7C3AED?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Networking-059669?style=flat-square&logo=wireshark&logoColor=white"/>
 
 </div>
 
----
+<div align="center"><img src="./assets/headers/ai-tools.svg" width="100%" alt="AI tools I use"/></div>
 
-## 🔄 How I Build Projects
+<div align="center">
+
+<img src="./assets/ai-tools.svg" width="90%" alt="Gemini, ChatGPT, Claude, Perplexity, Copilot, Gamma, DeepSeek"/>
+
+</div>
+
+<br/>
+
+<div align="center"><img src="./assets/headers/workflow.svg" width="100%" alt="How I build projects"/></div>
 
 ```mermaid
 flowchart LR
@@ -131,13 +106,9 @@ flowchart LR
 
 ---
 
-# 🚀 Projects — From Systems to Applications
+<div align="center"><img src="./assets/headers/projects.svg" width="100%" alt="Projects"/></div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,50:C86DD7,100:FF6B9D&height=60&section=header&text=Projects&fontSize=24&fontColor=ffffff&fontAlignY=65" width="70%"/>
-</div>
-
-## 🚌 01 — Online Bus Ticket Booking System
+### 🚌 01 — Online Bus Ticket Booking System
 
 A **PHP + MySQL full-stack booking application** for managing users, buses, routes, passengers, seats and bookings.
 
@@ -158,7 +129,7 @@ A **PHP + MySQL full-stack booking application** for managing users, buses, rout
 
 ---
 
-## 📡 02 — RFID Lab Attendance System
+### 📡 02 — RFID Lab Attendance System
 
 An **IoT-based attendance system** connecting RFID hardware with software to record student attendance.
 
@@ -194,7 +165,7 @@ Web Dashboard
 
 ---
 
-## 🍱 03 — Food Redistribution System (Concept)
+### 🍱 03 — Food Redistribution System (Concept)
 
 A social-impact project concept connecting **restaurants, hotels and events** with **NGOs and volunteers** to help redistribute surplus food.
 
@@ -219,11 +190,11 @@ flowchart LR
 
 <div align="center"><img src="./assets/food-redistribution.svg" width="92%" alt="Food Redistribution System"/></div>
 
-> ⚠️ **Concept stage** — even a basic working prototype pushed as a repo will outweigh a polished diagram.
+`🧪 Status: concept stage — prototype in planning`
 
 ---
 
-## 💻 04 — Personal Portfolio Website
+### 💻 04 — Personal Portfolio Website
 
 A responsive portfolio built to present my **projects, education, certificates, skills and contact information**, featuring a 3D animated desktop environment, dark/light mode, interactive mini-games, and an AI assistant that answers questions about my work.
 
@@ -234,11 +205,11 @@ A responsive portfolio built to present my **projects, education, certificates, 
 
 ---
 
-## 🛒 05 — Great Shopping — E-Commerce Website ⭐ Featured
+### 🛒 05 — Great Shopping — E-Commerce Website ⭐ Featured
 
 A database-driven e-commerce project built with **PHP, MySQL, Bootstrap, JavaScript, HTML and CSS**, focusing on real-world CRUD, authentication, products, cart and order workflows.
 
-### 🛍️ Customer Side
+**🛍️ Customer side**
 
 ```text
 LOGIN / REGISTER
@@ -254,8 +225,7 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
    MY ORDERS
 ```
 
-### 🧑‍💼 Admin Side
-
+**🧑‍💼 Admin side**
 - ➕ Add / manage categories
 - ➕ Add / manage products
 - 📦 Manage orders
@@ -266,15 +236,11 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 
 <div align="center"><img src="./assets/great-shopping.svg" width="92%" alt="Great Shopping E-Commerce Website"/></div>
 
-> ⚠️ **Not yet a public repo.** This is your strongest, most recent project — push it to a repo named e.g. `great-shopping-ecommerce` so recruiters can actually open the code, not just read about it here.
+`🔒 Source: private repository — walkthrough available on request`
 
 ---
 
-# 🎓 Education & Study Journey
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,100:C86DD7&height=55&section=header&text=Education&fontSize=22&fontColor=ffffff&fontAlignY=65" width="70%"/>
-</div>
+<div align="center"><img src="./assets/headers/education.svg" width="100%" alt="Education and study journey"/></div>
 
 ```mermaid
 flowchart LR
@@ -282,72 +248,78 @@ flowchart LR
 ```
 
 | Period        | Qualification                             | Institution                                        | Result            |
-| ------------- | ------------------------------------------ | --------------------------------------------------- | ------------------ |
+| ------------- | ----------------------------------------- | -------------------------------------------------- | ----------------- |
 | **2023–2026** | Diploma in Computer Science & Engineering | Tamil Nadu Government Polytechnic College, Madurai | **9.4 / 10 CGPA** |
 | **2022–2023** | SSLC / 10th                               | Dhanapaul Higher Secondary School, Madurai         | **77%**           |
 
 ---
 
-# 📜 Certificates — What They Represent
+<div align="center"><img src="./assets/headers/certificates.svg" width="100%" alt="Certificates"/></div>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:C86DD7,100:6C5CE7&height=55&section=header&text=Certificates&fontSize=22&fontColor=ffffff&fontAlignY=65" width="70%"/>
-</div>
-
-| Certificate / Achievement   | Provider                    | Result / Recognition        | What It Demonstrates                                        |
-| ---------------------------- | ---------------------------- | ----------------------------- | ------------------------------------------------------------- |
+| Certificate / Achievement    | Provider                    | Result / Recognition        | What It Demonstrates                                        |
+| ---------------------------- | --------------------------- | --------------------------- | ----------------------------------------------------------- |
 | 🐍 **Python Training**       | Spoken Tutorial, IIT Bombay | **95%**                     | Python fundamentals, scripting and programming practice     |
 | 🌐 **HTML Training**         | Spoken Tutorial, IIT Bombay | **95%**                     | HTML structure and web-page development fundamentals        |
-| 🎨 **CSS Training**          | Spoken Tutorial, IIT Bombay | —                            | Responsive styling, animation techniques and UI design      |
+| 🎨 **CSS Training**          | Spoken Tutorial, IIT Bombay | —                           | Responsive styling, animation techniques and UI design      |
 | 🎓 **EduPyramids Training**  | SINE, IIT Bombay            | **85%**                     | Technical training and practical learning                   |
 | 🔐 **Cybersecurity Seminar** | IUNOWARE                    | **Outstanding Performance** | Participation and performance in cybersecurity learning     |
-| 🌐 **Computer Networking**   | NM Program                  | —                            | LAN/WAN concepts, connectivity and structured communication |
-| 🗣️ **English Essentials**    | NM Program                  | —                            | Communication skills and professional expression             |
+| 🌐 **Computer Networking**   | NM Program                  | —                           | LAN/WAN concepts, connectivity and structured communication |
+| 🗣️ **English Essentials**    | NM Program                  | —                           | Communication skills and professional expression            |
 
 > 📌 Full certificate gallery — including college and school mark sheets — is on the [portfolio](https://manikandan-portfolio-kdhi.vercel.app/#certificates).
 
 ---
 
-# 📊 GitHub Activity
+<div align="center"><img src="./assets/headers/activity.svg" width="100%" alt="GitHub activity"/></div>
+
+<div align="center"><img src="./assets/headers/map3d.svg" width="100%" alt="3D contribution map"/></div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B9D,100:6C5CE7&height=55&section=header&text=GitHub%20Activity&fontSize=22&fontColor=ffffff&fontAlignY=65" width="70%"/>
+  <img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution map"/>
 </div>
 
+<div align="center"><img src="./assets/headers/stats.svg" width="100%" alt="Stats and top languages"/></div>
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats-ruby-ten-10.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&hide_border=true&count_private=false&theme=transparent&title_color=C86DD7&icon_color=FF6B9D&text_color=64748B" alt="GitHub statistics"/>
-<img height="180" src="https://github-readme-stats-ruby-ten-10.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=compact&hide_border=true&langs_count=8&theme=transparent&title_color=C86DD7&text_color=64748B" alt="Top languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph-one-neon.vercel.app/graph?username=spiderboy-Manikandan&theme=react-dark&hide_border=true&area=true&v=4" alt="Contribution activity graph" width="100%"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=spiderboy-Manikandan&hide_border=true&theme=transparent&ring=FF6B9D&fire=C86DD7&currStreakLabel=6C5CE7" alt="GitHub streak"/>
+<img height="195" src="https://github-readme-stats-ruby-ten-10.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&rank_icon=github&count_private=false&hide_border=false&border_color=302b63&bg_color=0d1117&title_color=C86DD7&icon_color=FF6B9D&text_color=c9d1d9" alt="GitHub statistics"/>
+<img height="195" src="https://github-readme-stats-ruby-ten-10.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=donut&hide=hack&langs_count=8&hide_border=false&border_color=302b63&bg_color=0d1117&title_color=C86DD7&text_color=c9d1d9" alt="Top languages"/>
 
 </div>
 
-> ✅ All three cards above — **GitHub statistics**, **Top languages**, and the **activity graph** — now run on your own self-hosted Vercel instances, so none of them should hit the shared rate limit anymore.
+<div align="center"><img src="./assets/headers/graph.svg" width="100%" alt="Contribution graph"/></div>
 
----
+<div align="center">
 
-## 🐍 Contribution Snake
+<img src="https://github-readme-activity-graph-one-neon.vercel.app/graph?username=spiderboy-Manikandan&bg_color=0d1117&color=C86DD7&line=6C5CE7&point=FF6B9D&area=true&area_color=6C5CE7&hide_border=true&hide_title=true&v=4" alt="Contribution activity graph" width="100%"/>
+
+</div>
+
+<div align="center"><img src="./assets/headers/streak.svg" width="100%" alt="Streak and trophies"/></div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=spiderboy-Manikandan&hide_border=true&background=0d1117&ring=FF6B9D&fire=C86DD7&currStreakNum=FF6B9D&currStreakLabel=C86DD7&sideNums=c9d1d9&sideLabels=8b949e&dates=64748B" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=spiderboy-Manikandan&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" width="100%" alt="GitHub trophies"/>
+
+</div>
+
+<div align="center"><img src="./assets/headers/snake.svg" width="100%" alt="Contribution snake"/></div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
 </p>
-
-Auto-generated every day by the GitHub Action in `.github/workflows/snake.yml`. Your workflow publishes the `dist/` folder's *contents* to the `output` branch root, so the file lives at `output/github-contribution-grid-snake.svg` — not `output/dist/...`. If it doesn't render after you push, go to the **Actions** tab and run "🐍 Contribution Snake" manually once so the `output` branch gets created.
 
 ---
 
-## 🔘 Let's Connect
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=60&section=header&text=Lets%20Build%20Something&fontSize=22&fontColor=ffffff&fontAlignY=65" width="70%"/>
-</div>
+<div align="center"><img src="./assets/headers/connect.svg" width="100%" alt="Let's build something"/></div>
 
 I'm actively looking for **internship opportunities**, open to **freelance web/IoT work**, and always happy to talk tech, debug something together, or just connect. I usually reply within a day.
 
@@ -371,11 +343,13 @@ I'm actively looking for **internship opportunities**, open to **freelance web/I
 
 <p align="center">📍 Madurai, Tamil Nadu, India · 🤖 Or ask my <a href="https://manikandan-portfolio-kdhi.vercel.app/#contact">portfolio AI assistant</a> — it knows my skills, projects and education</p>
 
----
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=180&section=footer&animation=twinkling" width="100%"/>
+<img src="./assets/manikandan-banner.png" width="100%" alt="Manikandan B — skills and learning roadmap"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=140&section=footer&animation=twinkling" width="100%" alt=""/>
 
 `LEARN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE` → `REPEAT`
 
