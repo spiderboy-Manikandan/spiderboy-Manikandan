@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 508" width="720" height="508" role="img" aria-label="Certificates: Python, HTML, CSS, EduPyramids, Cybersecurity, Networking, English Essentials, Mark sheets">
+<defs><linearGradient id="shn" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".14"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient><clipPath id="k0"><rect x="0" y="6" width="348" height="112" rx="22"/></clipPath><clipPath id="k1"><rect x="372" y="6" width="348" height="112" rx="22"/></clipPath><clipPath id="k2"><rect x="0" y="134" width="348" height="112" rx="22"/></clipPath><clipPath id="k3"><rect x="372" y="134" width="348" height="112" rx="22"/></clipPath><clipPath id="k4"><rect x="0" y="262" width="348" height="112" rx="22"/></clipPath><clipPath id="k5"><rect x="372" y="262" width="348" height="112" rx="22"/></clipPath><clipPath id="k6"><rect x="0" y="390" width="348" height="112" rx="22"/></clipPath><clipPath id="k7"><rect x="372" y="390" width="348" height="112" rx="22"/></clipPath></defs>
+<style>
+@keyframes mq{to{stroke-dashoffset:-100}}.mq{stroke-dasharray:16 84;animation:mq 6s linear infinite}
+@keyframes sh{0%,55%{transform:translateX(-120px)}100%{transform:translateX(568px)}}.sh{animation:sh 5.5s ease-in-out infinite}
+@keyframes pr{0%{transform:scale(.92);opacity:.9}100%{transform:scale(1.25);opacity:0}}.pr{transform-box:fill-box;transform-origin:center;animation:pr 2.6s ease-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g>
+<rect x="0" y="6" width="348" height="112" rx="22" fill="#121826" stroke="#6C5CE7" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="mq" x="0" y="6" width="348" height="112" rx="22" fill="none" stroke="#6C5CE7" stroke-width="2.5" pathLength="100" style="animation-delay:0.00s"/>
+<g clip-path="url(#k0)"><rect class="sh" x="0" y="-4" width="70" height="132" fill="url(#shn)" transform="skewX(-20)" style="animation-delay:0.00s"/></g>
+<circle class="pr" cx="52" cy="62.0" r="32" fill="none" stroke="#6C5CE7" stroke-width="2" style="animation-delay:0.00s"/>
+<circle cx="52" cy="62.0" r="30" fill="#0d1117" stroke="#6C5CE7" stroke-opacity=".6"/>
+<svg x="33" y="43.0" width="38" height="38" viewBox="0 0 128 128"><linearGradient id="cert0_python-original-a" gradientUnits="userSpaceOnUse" x1="70.252" y1="1237.476" x2="170.659" y2="1151.089" gradientTransform="matrix(.563 0 0 -.568 -29.215 707.817)"><stop offset="0" stop-color="#5A9FD4"/><stop offset="1" stop-color="#306998"/></linearGradient><linearGradient id="cert0_python-original-b" gradientUnits="userSpaceOnUse" x1="209.474" y1="1098.811" x2="173.62" y2="1149.537" gradientTransform="matrix(.563 0 0 -.568 -29.215 707.817)"><stop offset="0" stop-color="#FFD43B"/><stop offset="1" stop-color="#FFE873"/></linearGradient><path fill="url(#cert0_python-original-a)" d="M63.391 1.988c-4.222.02-8.252.379-11.8 1.007-10.45 1.846-12.346 5.71-12.346 12.837v9.411h24.693v3.137H29.977c-7.176 0-13.46 4.313-15.426 12.521-2.268 9.405-2.368 15.275 0 25.096 1.755 7.311 5.947 12.519 13.124 12.519h8.491V67.234c0-8.151 7.051-15.34 15.426-15.34h24.665c6.866 0 12.346-5.654 12.346-12.548V15.833c0-6.693-5.646-11.72-12.346-12.837-4.244-.706-8.645-1.027-12.866-1.008zM50.037 9.557c2.55 0 4.634 2.117 4.634 4.721 0 2.593-2.083 4.69-4.634 4.69-2.56 0-4.633-2.097-4.633-4.69-.001-2.604 2.073-4.721 4.633-4.721z" transform="translate(0 10.26)"/><path fill="url(#cert0_python-original-b)" d="M91.682 28.38v10.966c0 8.5-7.208 15.655-15.426 15.655H51.591c-6.756 0-12.346 5.783-12.346 12.549v23.515c0 6.691 5.818 10.628 12.346 12.547 7.816 2.297 15.312 2.713 24.665 0 6.216-1.801 12.346-5.423 12.346-12.547v-9.412H63.938v-3.138h37.012c7.176 0 9.852-5.005 12.348-12.519 2.578-7.735 2.467-15.174 0-25.096-1.774-7.145-5.161-12.521-12.348-12.521h-9.268zM77.809 87.927c2.561 0 4.634 2.097 4.634 4.692 0 2.602-2.074 4.719-4.634 4.719-2.55 0-4.633-2.117-4.633-4.719 0-2.595 2.083-4.692 4.633-4.692z" transform="translate(0 10.26)"/><radialGradient id="cert0_python-original-c" cx="1825.678" cy="444.45" r="26.743" gradientTransform="matrix(0 -.24 -1.055 0 532.979 557.576)" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#B8B8B8" stop-opacity=".498"/><stop offset="1" stop-color="#7F7F7F" stop-opacity="0"/></radialGradient><path opacity=".444" fill="url(#cert0_python-original-c)" d="M97.309 119.597c0 3.543-14.816 6.416-33.091 6.416-18.276 0-33.092-2.873-33.092-6.416 0-3.544 14.815-6.417 33.092-6.417 18.275 0 33.091 2.872 33.091 6.417z"/></svg>
+<text x="96" y="46" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#e6edf3">Python Training</text>
+<text x="96" y="69" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8b949e">Spoken Tutorial, IIT Bombay</text>
+<rect x="96" y="80" width="41" height="25" rx="12.5" fill="#6C5CE7" fill-opacity=".18" stroke="#6C5CE7" stroke-opacity=".6"/>
+<text x="117" y="97.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#e6edf3">95%</text>
+</g><g>
+<rect x="372" y="6" width="348" height="112" rx="22" fill="#121826" stroke="#C86DD7" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="mq" x="372" y="6" width="348" height="112" rx="22" fill="none" stroke="#C86DD7" stroke-width="2.5" pathLength="100" style="animation-delay:0.55s"/>
+<g clip-path="url(#k1)"><rect class="sh" x="0" y="-4" width="70" height="132" fill="url(#shn)" transform="skewX(-20)" style="animation-delay:0.55s"/></g>
+<circle class="pr" cx="424" cy="62.0" r="32" fill="none" stroke="#C86DD7" stroke-width="2" style="animation-delay:0.55s"/>
+<circle cx="424" cy="62.0" r="30" fill="#0d1117" stroke="#C86DD7" stroke-opacity=".6"/>
+<svg x="405" y="43.0" width="38" height="38" viewBox="0 0 128 128"><path fill="#E44D26" d="M19.037 113.876L9.032 1.661h109.936l-10.016 112.198-45.019 12.48z"/><path fill="#F16529" d="M64 116.8l36.378-10.086 8.559-95.878H64z"/><path fill="#EBEBEB" d="M64 52.455H45.788L44.53 38.361H64V24.599H29.489l.33 3.692 3.382 37.927H64zm0 35.743l-.061.017-15.327-4.14-.979-10.975H33.816l1.928 21.609 28.193 7.826.063-.017z"/><path fill="#fff" d="M63.952 52.455v13.763h16.947l-1.597 17.849-15.35 4.143v14.319l28.215-7.82.207-2.325 3.234-36.233.335-3.696h-3.708zm0-27.856v13.762h33.244l.276-3.092.628-6.978.329-3.692z"/></svg>
+<text x="468" y="46" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">HTML Training</text>
+<text x="468" y="69" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8b949e">Spoken Tutorial, IIT Bombay</text>
+<rect x="468" y="80" width="41" height="25" rx="12.5" fill="#C86DD7" fill-opacity=".18" stroke="#C86DD7" stroke-opacity=".6"/>
+<text x="489" y="97.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#e6edf3">95%</text>
+</g><g>
+<rect x="0" y="134" width="348" height="112" rx="22" fill="#121826" stroke="#FF6B9D" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="mq" x="0" y="134" width="348" height="112" rx="22" fill="none" stroke="#FF6B9D" stroke-width="2.5" pathLength="100" style="animation-delay:1.10s"/>
+<g clip-path="url(#k2)"><rect class="sh" x="0" y="124" width="70" height="132" fill="url(#shn)" transform="skewX(-20)" style="animation-delay:1.10s"/></g>
+<circle class="pr" cx="52" cy="190.0" r="32" fill="none" stroke="#FF6B9D" stroke-width="2" style="animation-delay:1.10s"/>
+<circle cx="52" cy="190.0" r="30" fill="#0d1117" stroke="#FF6B9D" stroke-opacity=".6"/>
+<svg x="33" y="171.0" width="38" height="38" viewBox="0 0 128 128"><path fill="#1572B6" d="M18.814 114.123L8.76 1.352h110.48l-10.064 112.754-45.243 12.543-45.119-12.526z"/><path fill="#33A9DC" d="M64.001 117.062l36.559-10.136 8.601-96.354h-45.16v106.49z"/><path fill="#fff" d="M64.001 51.429h18.302l1.264-14.163H64.001V23.435h34.682l-.332 3.711-3.4 38.114h-30.95V51.429z"/><path fill="#EBEBEB" d="M64.083 87.349l-.061.018-15.403-4.159-.985-11.031H33.752l1.937 21.717 28.331 7.863.063-.018v-14.39z"/><path fill="#fff" d="M81.127 64.675l-1.666 18.522-15.426 4.164v14.39l28.354-7.858.208-2.337 2.406-26.881H81.127z"/><path fill="#EBEBEB" d="M64.048 23.435v13.831H30.64l-.277-3.108-.63-7.012-.331-3.711h34.646zm-.047 27.996v13.831H48.792l-.277-3.108-.631-7.012-.33-3.711h16.447z"/></svg>
+<text x="96" y="174" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">CSS Training</text>
+<text x="96" y="197" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8b949e">Spoken Tutorial, IIT Bombay</text>
+<rect x="96" y="208" width="92" height="25" rx="12.5" fill="#FF6B9D" fill-opacity=".18" stroke="#FF6B9D" stroke-opacity=".6"/>
+<text x="142" y="225.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#e6edf3">Completed</text>
+</g><g>
+<rect x="372" y="134" width="348" height="112" rx="22" fill="#121826" stroke="#00C2FF" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="mq" x="372" y="134" width="348" height="112" rx="22" fill="none" stroke="#00C2FF" stroke-width="2.5" pathLength="100" style="animation-delay:1.65s"/>
+<g clip-path="url(#k3)"><rect class="sh" x="0" y="124" width="70" height="132" fill="url(#shn)" transform="skewX(-20)" style="animation-delay:1.65s"/></g>
+<circle class="pr" cx="424" cy="190.0" r="32" fill="none" stroke="#00C2FF" stroke-width="2" style="animation-delay:1.65s"/>
+<circle cx="424" cy="190.0" r="30" fill="#0d1117" stroke="#00C2FF" stroke-opacity=".6"/>
+<g transform="translate(405,171.0) scale(1.58)" fill="none" stroke="#00C2FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M2 9 L12 4 L22 9 L12 14 Z M6 11.5 V16 C6 17.5 9 19 12 19 C15 19 18 17.5 18 16 V11.5 M22 9 V15"/></g>
+<text x="468" y="174" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">EduPyramids</text>
+<text x="468" y="197" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8b949e">Training, SINE IIT Bombay</text>
+<rect x="468" y="208" width="41" height="25" rx="12.5" fill="#00C2FF" fill-opacity=".18" stroke="#00C2FF" stroke-opacity=".6"/>
+<text x="489" y="225.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#e6edf3">85%</text>
+</g><g>
+<rect x="0" y="262" width="348" height="112" rx="22" fill="#121826" stroke="#6C5CE7" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="mq" x="0" y="262" width="348" height="112" rx="22" fill="none" stroke="#6C5CE7" stroke-width="2.5" pathLength="100" style="animation-delay:2.20s"/>
+<g clip-path="url(#k4)"><rect class="sh" x="0" y="252" width="70" height="132" fill="url(#shn)" transform="skewX(-20)" style="animation-delay:2.20s"/></g>
+<circle class="pr" cx="52" cy="318.0" r="32" fill="none" stroke="#6C5CE7" stroke-width="2" style="animation-delay:2.20s"/>
+<circle cx="52" cy="318.0" r="30" fill="#0d1117" stroke="#6C5CE7" stroke-opacity=".6"/>
+<g transform="translate(33,299.0) scale(1.58)" fill="none" stroke="#6C5CE7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 L19 6 V12 C19 16.5 16 19.5 12 21 C8 19.5 5 16.5 5 12 V6 Z M9 12 L11.2 14.2 L15.2 9.8"/></g>
+<text x="96" y="302" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">Cybersecurity</text>
+<text x="96" y="325" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8b949e">Seminar, IUNOWARE</text>
+<rect x="96" y="336" width="108" height="25" rx="12.5" fill="#6C5CE7" fill-opacity=".18" stroke="#6C5CE7" stroke-opacity=".6"/>
+<text x="150" y="353.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#e6edf3">Outstanding</text>
+</g><g>
+<rect x="372" y="262" width="348" height="112" rx="22" fill="#121826" stroke="#C86DD7" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="mq" x="372" y="262" width="348" height="112" rx="22" fill="none" stroke="#C86DD7" stroke-width="2.5" pathLength="100" style="animation-delay:2.75s"/>
+<g clip-path="url(#k5)"><rect class="sh" x="0" y="252" width="70" height="132" fill="url(#shn)" transform="skewX(-20)" style="animation-delay:2.75s"/></g>
+<circle class="pr" cx="424" cy="318.0" r="32" fill="none" stroke="#C86DD7" stroke-width="2" style="animation-delay:2.75s"/>
+<circle cx="424" cy="318.0" r="30" fill="#0d1117" stroke="#C86DD7" stroke-opacity=".6"/>
+<g transform="translate(405,299.0) scale(1.58)" fill="none" stroke="#C86DD7" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12 A9 9 0 1 0 21 12 A9 9 0 1 0 3 12 M3 12 H21 M12 3 C8 7 8 17 12 21 C16 17 16 7 12 3"/></g>
+<text x="468" y="302" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">Networking</text>
+<text x="468" y="325" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8b949e">NM Program, LAN and WAN</text>
+<rect x="468" y="336" width="92" height="25" rx="12.5" fill="#C86DD7" fill-opacity=".18" stroke="#C86DD7" stroke-opacity=".6"/>
+<text x="514" y="353.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#e6edf3">Completed</text>
+</g><g>
+<rect x="0" y="390" width="348" height="112" rx="22" fill="#121826" stroke="#FF6B9D" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="mq" x="0" y="390" width="348" height="112" rx="22" fill="none" stroke="#FF6B9D" stroke-width="2.5" pathLength="100" style="animation-delay:3.30s"/>
+<g clip-path="url(#k6)"><rect class="sh" x="0" y="380" width="70" height="132" fill="url(#shn)" transform="skewX(-20)" style="animation-delay:3.30s"/></g>
+<circle class="pr" cx="52" cy="446.0" r="32" fill="none" stroke="#FF6B9D" stroke-width="2" style="animation-delay:3.30s"/>
+<circle cx="52" cy="446.0" r="30" fill="#0d1117" stroke="#FF6B9D" stroke-opacity=".6"/>
+<g transform="translate(33,427.0) scale(1.58)" fill="none" stroke="#FF6B9D" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M4 5 H20 V16 H11 L7 20 V16 H4 Z M8 9.5 H16 M8 12.5 H13"/></g>
+<text x="96" y="430" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" font-weight="800" fill="#e6edf3">English Essentials</text>
+<text x="96" y="453" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8b949e">NM Program</text>
+<rect x="96" y="464" width="92" height="25" rx="12.5" fill="#FF6B9D" fill-opacity=".18" stroke="#FF6B9D" stroke-opacity=".6"/>
+<text x="142" y="481.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#e6edf3">Completed</text>
+</g><g>
+<rect x="372" y="390" width="348" height="112" rx="22" fill="#121826" stroke="#00C2FF" stroke-opacity=".35" stroke-width="1.5"/>
+<rect class="mq" x="372" y="390" width="348" height="112" rx="22" fill="none" stroke="#00C2FF" stroke-width="2.5" pathLength="100" style="animation-delay:3.85s"/>
+<g clip-path="url(#k7)"><rect class="sh" x="0" y="380" width="70" height="132" fill="url(#shn)" transform="skewX(-20)" style="animation-delay:3.85s"/></g>
+<circle class="pr" cx="424" cy="446.0" r="32" fill="none" stroke="#00C2FF" stroke-width="2" style="animation-delay:3.85s"/>
+<circle cx="424" cy="446.0" r="30" fill="#0d1117" stroke="#00C2FF" stroke-opacity=".6"/>
+<g transform="translate(405,427.0) scale(1.58)" fill="none" stroke="#00C2FF" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><path d="M6 3 H14 L19 8 V21 H6 Z M14 3 V8 H19 M9 13 H16 M9 16.5 H16"/></g>
+<text x="468" y="430" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="20" font-weight="800" fill="#e6edf3">Mark Sheets</text>
+<text x="468" y="453" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#8b949e">College (Diploma) and SSLC</text>
+<rect x="468" y="464" width="117" height="25" rx="12.5" fill="#00C2FF" fill-opacity=".18" stroke="#00C2FF" stroke-opacity=".6"/>
+<text x="526" y="481.5" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="14" font-weight="700" fill="#e6edf3">On portfolio</text>
+</g>
+</svg>

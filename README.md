@@ -1,87 +1,63 @@
 <div align="center">
 
-<img src="./assets/hero-animated.svg" width="100%" alt="Manikandan B — Computer Science Engineering, Software Developer, Full-Stack Developer"/>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="assets/hero-animated.svg" alt="Manikandan B — Computer Science Engineering, Software Developer, Full-Stack Developer"></a>
 
-<img src="./assets/typing.svg" width="78%" alt="Typing animation: Computer Science Engineering Student, Full-Stack Web Developer, Software Developer, IoT Enthusiast"/>
+<img src="assets/typing.svg" alt="Typing animation: Computer Science Engineering Student, Full-Stack Web Developer, Software Developer, IoT Enthusiast, Open to Internships and Freelance">
 
-<br/>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B9D?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/📩%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/💬%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/🌐%20PORTFOLIO-FF6B9D?style=for-the-badge"/></a>
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/📩%20EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/💬%20WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/🎓_CSE_STUDENT-6C5CE7?style=flat-square&labelColor=302b63"/>
-<img src="https://img.shields.io/badge/💻_SOFTWARE_DEVELOPER-C86DD7?style=flat-square&labelColor=302b63"/>
-<img src="https://img.shields.io/badge/🌐_FULL--STACK_DEVELOPER-FF6B9D?style=flat-square&labelColor=302b63"/>
-<img src="https://img.shields.io/badge/📡_IoT_ENTHUSIAST-6C5CE7?style=flat-square&labelColor=302b63"/>
-<img src="https://komarev.com/ghpvc/?username=spiderboy-Manikandan&label=PROFILE+VIEWS&color=C86DD7&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/🎓_CSE_STUDENT-6C5CE7?style=flat-square&labelColor=302b63" alt="CSE Student">
+<img src="https://img.shields.io/badge/💻_SOFTWARE_DEVELOPER-C86DD7?style=flat-square&labelColor=302b63" alt="Software Developer">
+<img src="https://img.shields.io/badge/🌐_FULL--STACK_DEVELOPER-FF6B9D?style=flat-square&labelColor=302b63" alt="Full-Stack Developer">
+<img src="https://img.shields.io/badge/📡_IoT_ENTHUSIAST-6C5CE7?style=flat-square&labelColor=302b63" alt="IoT Enthusiast">
+<img src="https://komarev.com/ghpvc/?username=spiderboy-Manikandan&label=PROFILE+VIEWS&color=C86DD7&style=flat-square" alt="Profile views">
 
 </div>
 
-<br/>
-
-<div align="center"><img src="./assets/h-about.svg" width="100%" alt="About me"/></div>
+<div align="center"><img src="assets/h-about.svg" alt="About me"></div>
 
 I'm **Manikandan B** — a builder at heart, currently finishing my **Diploma in Computer Science & Engineering** at **Tamil Nadu Government Polytechnic College, Madurai**, with a **9.4 / 10 CGPA**.
 
 What drives me is turning a rough idea into something people can actually click, use and break — then fixing it. Over the last few years that's meant shipping a full **PHP/MySQL e-commerce platform**, wiring up an **IoT attendance system** with an RC522 reader and a NodeMCU, and prototyping a **social-impact food redistribution concept**. I'm just as comfortable soldering a sensor as I am debugging a checkout flow at 1 a.m.
 
-<div align="center">
-
-| 🎓 Education                     | 💻 Focus Areas             | 📍 Based In         |
+| 🎓 Education                     | 💻 Focus Areas             | 📍 Based In          |
 | ------------------------------- | ------------------------- | ------------------- |
 | Diploma CSE • **9.4 / 10 CGPA** | Web • Software • IoT • AI | Madurai, Tamil Nadu |
 
-</div>
+<div align="center"><img src="assets/h-now.svg" alt="Currently"></div>
 
-<div align="center"><img src="./assets/h-now.svg" width="100%" alt="Currently"/></div>
-
-| 🔭 Learning                                         | 🛠️ Building                              | 🤝 Open to                                 |
-| --------------------------------------------------- | ---------------------------------------- | ------------------------------------------ |
+| 🔭 Learning                                                            | 🛠️ Building                         | 🤝 Open to                                      |
+| --------------------------------------------------------------------- | ----------------------------------- | ---------------------------------------------- |
 | Full-stack web, databases, machine learning, data science, networking | PHP / MySQL apps and IoT prototypes | **Internships** • **Freelance web / IoT work** |
 
-<br/>
-
-<div align="center"><img src="./assets/h-languages.svg" width="100%" alt="Languages I code in"/></div>
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,java,c,bootstrap,numpy,pandas&theme=dark&perline=10" alt="HTML, CSS, JavaScript, PHP, Python, Java, C, Bootstrap, NumPy, Pandas"/>
+<img src="assets/h-languages.svg" alt="Languages I code in">
+
+<img src="assets/languages.svg" alt="HTML, CSS, JavaScript, PHP, Python, Java, C, Bootstrap, NumPy, Pandas">
+
+<img src="assets/h-tools.svg" alt="Developer toolkit and hardware">
+
+<img src="assets/toolkit.svg" alt="MySQL, Git, GitHub, VS Code, Arduino, Raspberry Pi, Linux">
+
+<img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets API">
+<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white" alt="Word">
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white" alt="PowerPoint">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco">
+<img src="https://img.shields.io/badge/Computer%20Networking-059669?style=flat-square&logo=wireshark&logoColor=white" alt="Computer Networking">
+
+<img src="assets/h-ai-tools.svg" alt="AI tools I use">
+
+<img src="assets/ai-tools.svg" alt="Gemini, ChatGPT, Claude, Perplexity, Copilot, Gamma, DeepSeek">
+
+<img src="assets/h-workflow.svg" alt="How I build projects">
 
 </div>
-
-<div align="center"><img src="./assets/h-tools.svg" width="100%" alt="Developer toolkit and hardware"/></div>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,arduino,raspberrypi,linux&theme=dark&perline=10" alt="MySQL, Git, GitHub, VS Code, Arduino, Raspberry Pi, Linux"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=googlesheets&logoColor=white"/>
-<img src="https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer%20Networking-059669?style=flat-square&logo=wireshark&logoColor=white"/>
-
-</div>
-
-<div align="center"><img src="./assets/h-ai-tools.svg" width="100%" alt="AI tools I use"/></div>
-
-<div align="center">
-
-<img src="./assets/ai-tools.svg" width="90%" alt="Gemini, ChatGPT, Claude, Perplexity, Copilot, Gamma, DeepSeek"/>
-
-</div>
-
-<br/>
-
-<div align="center"><img src="./assets/h-workflow.svg" width="100%" alt="How I build projects"/></div>
 
 ```mermaid
 flowchart LR
@@ -106,13 +82,14 @@ flowchart LR
 
 ---
 
-<div align="center"><img src="./assets/h-projects.svg" width="100%" alt="Projects"/></div>
+<div align="center"><img src="assets/h-projects.svg" alt="Projects"></div>
 
 ### 🚌 01 — Online Bus Ticket Booking System
 
 A **PHP + MySQL full-stack booking application** for managing users, buses, routes, passengers, seats and bookings.
 
 **Highlights**
+
 - 👤 User registration, login and authentication
 - 🚌 Bus, route and fare management
 - 💺 Seat selection and seat availability
@@ -123,9 +100,9 @@ A **PHP + MySQL full-stack booking application** for managing users, buses, rout
 
 **Technology:** `HTML` `CSS` `Bootstrap` `JavaScript` `PHP` `MySQL`
 
-<div align="center"><img src="./assets/bus-booking.svg" width="92%" alt="Online Bus Ticket Booking System"/></div>
+<img src="assets/bus-booking.svg" alt="Online Bus Ticket Booking System">
 
-<a href="https://github.com/spiderboy-Manikandan/online-Bus-Ticket-Booking"><img src="https://img.shields.io/badge/VIEW%20REPO-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/spiderboy-Manikandan/online-Bus-Ticket-Booking"><img src="https://img.shields.io/badge/VIEW%20REPO-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
 
 ---
 
@@ -134,12 +111,14 @@ A **PHP + MySQL full-stack booking application** for managing users, buses, rout
 An **IoT-based attendance system** connecting RFID hardware with software to record student attendance.
 
 **Hardware**
+
 - NodeMCU ESP8266
 - RC522 RFID reader
 - I2C LCD
 - Buzzer
 
 **Software / Integration**
+
 - Arduino IDE
 - Google Sheets / Sheets API
 - Attendance dashboard concept
@@ -147,7 +126,7 @@ An **IoT-based attendance system** connecting RFID hardware with software to rec
 
 **System Flow**
 
-```text
+```
 RFID CARD
     ↓
 RC522 READER
@@ -161,7 +140,7 @@ Google Sheets
 Web Dashboard
 ```
 
-<div align="center"><img src="./assets/rfid-attendance.svg" width="92%" alt="RFID Lab Attendance System"/></div>
+<img src="assets/rfid-attendance.svg" alt="RFID Lab Attendance System">
 
 ---
 
@@ -178,6 +157,7 @@ flowchart LR
 ```
 
 **Core Features**
+
 - Food donor registration
 - Location and availability matching
 - Volunteer pickup coordination
@@ -188,7 +168,7 @@ flowchart LR
 
 **Focus:** `Web Development` `MySQL` `Location Matching` `Notifications` `Social Impact`
 
-<div align="center"><img src="./assets/food-redistribution.svg" width="92%" alt="Food Redistribution System"/></div>
+<img src="assets/food-redistribution.svg" alt="Food Redistribution System">
 
 `🧪 Status: concept stage — prototype in planning`
 
@@ -200,8 +180,8 @@ A responsive portfolio built to present my **projects, education, certificates, 
 
 **Technology:** `HTML` `CSS` `JavaScript`
 
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20PORTFOLIO-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://github.com/spiderboy-Manikandan/Manikandan-Portfolio"><img src="https://img.shields.io/badge/VIEW%20REPO-16A34A?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/OPEN%20LIVE%20PORTFOLIO-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white" alt="Open live portfolio"></a>
+<a href="https://github.com/spiderboy-Manikandan/Manikandan-Portfolio"><img src="https://img.shields.io/badge/VIEW%20REPO-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="View repo"></a>
 
 ---
 
@@ -211,7 +191,7 @@ A database-driven e-commerce project built with **PHP, MySQL, Bootstrap, JavaScr
 
 **🛍️ Customer side**
 
-```text
+```
 LOGIN / REGISTER
        ↓
 PRODUCTS → CATEGORY → PRODUCT DETAILS
@@ -226,6 +206,7 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 ```
 
 **🧑‍💼 Admin side**
+
 - ➕ Add / manage categories
 - ➕ Add / manage products
 - 📦 Manage orders
@@ -234,13 +215,13 @@ PRODUCTS → CATEGORY → PRODUCT DETAILS
 
 **Technology:** `PHP` `MySQL` `Bootstrap 5.3.3` `JavaScript` `HTML` `CSS`
 
-<div align="center"><img src="./assets/great-shopping.svg" width="92%" alt="Great Shopping E-Commerce Website"/></div>
+<img src="assets/great-shopping.svg" alt="Great Shopping E-Commerce Website">
 
 `🔒 Source: private repository — walkthrough available on request`
 
 ---
 
-<div align="center"><img src="./assets/h-education.svg" width="100%" alt="Education and study journey"/></div>
+<div align="center"><img src="assets/h-education.svg" alt="Education and study journey"></div>
 
 ```mermaid
 flowchart LR
@@ -254,102 +235,90 @@ flowchart LR
 
 ---
 
-<div align="center"><img src="./assets/h-certificates.svg" width="100%" alt="Certificates"/></div>
+<div align="center">
 
-| Certificate / Achievement    | Provider                    | Result / Recognition        | What It Demonstrates                                        |
-| ---------------------------- | --------------------------- | --------------------------- | ----------------------------------------------------------- |
+<img src="assets/h-certificates.svg" alt="Certificates">
+
+<img src="assets/certificates.svg" alt="Certificates: Python 95%, HTML 95%, CSS, EduPyramids 85%, Cybersecurity seminar (outstanding), Networking, English Essentials, mark sheets">
+
+</div>
+
+<details>
+<summary><b>Certificate details</b> (text version)</summary>
+
+<br>
+
+| Certificate / Achievement   | Provider                    | Result / Recognition        | What It Demonstrates                                        |
+| --------------------------- | --------------------------- | --------------------------- | ----------------------------------------------------------- |
 | 🐍 **Python Training**       | Spoken Tutorial, IIT Bombay | **95%**                     | Python fundamentals, scripting and programming practice     |
 | 🌐 **HTML Training**         | Spoken Tutorial, IIT Bombay | **95%**                     | HTML structure and web-page development fundamentals        |
 | 🎨 **CSS Training**          | Spoken Tutorial, IIT Bombay | —                           | Responsive styling, animation techniques and UI design      |
 | 🎓 **EduPyramids Training**  | SINE, IIT Bombay            | **85%**                     | Technical training and practical learning                   |
 | 🔐 **Cybersecurity Seminar** | IUNOWARE                    | **Outstanding Performance** | Participation and performance in cybersecurity learning     |
 | 🌐 **Computer Networking**   | NM Program                  | —                           | LAN/WAN concepts, connectivity and structured communication |
-| 🗣️ **English Essentials**    | NM Program                  | —                           | Communication skills and professional expression            |
+| 🗣️ **English Essentials**   | NM Program                  | —                           | Communication skills and professional expression            |
+
+</details>
 
 > 📌 Full certificate gallery — including college and school mark sheets — is on the [portfolio](https://manikandan-portfolio-kdhi.vercel.app/#certificates).
 
 ---
 
-<div align="center"><img src="./assets/h-activity.svg" width="100%" alt="GitHub activity"/></div>
-
-<div align="center"><img src="./assets/h-map3d.svg" width="100%" alt="3D contribution map"/></div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub contribution map"/>
-</div>
-
-<div align="center"><img src="./assets/h-stats.svg" width="100%" alt="Stats and top languages"/></div>
-
 <div align="center">
 
-<img height="195" src="https://github-readme-stats-ruby-ten-10.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&rank_icon=github&count_private=false&hide_border=false&border_color=302b63&bg_color=0d1117&title_color=C86DD7&icon_color=FF6B9D&text_color=c9d1d9" alt="GitHub statistics"/>
-<img height="195" src="https://github-readme-stats-ruby-ten-10.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=donut&hide=hack&langs_count=8&hide_border=false&border_color=302b63&bg_color=0d1117&title_color=C86DD7&text_color=c9d1d9" alt="Top languages"/>
+<img src="assets/h-activity.svg" alt="GitHub activity">
+
+<img src="assets/h-map3d.svg" alt="3D contribution map">
+
+<img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution map">
+
+<img src="assets/h-stats.svg" alt="Stats and top languages">
+
+<img src="https://github-readme-stats-ruby-ten-10.vercel.app/api?username=spiderboy-Manikandan&show_icons=true&rank_icon=github&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=C86DD7&icon_color=FF6B9D&text_color=c9d1d9" alt="GitHub statistics" width="400">
+<img src="https://github-readme-stats-ruby-ten-10.vercel.app/api/top-langs/?username=spiderboy-Manikandan&layout=donut&hide=hack&langs_count=8&hide_border=true&bg_color=0d1117&title_color=C86DD7&text_color=c9d1d9" alt="Top languages" width="400">
+
+<img src="assets/h-repos.svg" alt="Featured repositories">
+
+<a href="https://github.com/spiderboy-Manikandan/Manikandan-Portfolio"><img src="https://github-readme-stats-ruby-ten-10.vercel.app/api/pin/?username=spiderboy-Manikandan&repo=Manikandan-Portfolio&hide_border=true&bg_color=0d1117&title_color=C86DD7&icon_color=FF6B9D&text_color=c9d1d9" alt="Manikandan-Portfolio repository" width="400"></a>
+<a href="https://github.com/spiderboy-Manikandan/online-Bus-Ticket-Booking"><img src="https://github-readme-stats-ruby-ten-10.vercel.app/api/pin/?username=spiderboy-Manikandan&repo=online-Bus-Ticket-Booking&hide_border=true&bg_color=0d1117&title_color=C86DD7&icon_color=FF6B9D&text_color=c9d1d9" alt="online-Bus-Ticket-Booking repository" width="400"></a>
+
+<img src="assets/h-graph.svg" alt="Contribution graph">
+
+<img src="https://github-readme-activity-graph-one-neon.vercel.app/graph?username=spiderboy-Manikandan&bg_color=0d1117&color=C86DD7&line=6C5CE7&point=FF6B9D&area=true&area_color=6C5CE7&hide_border=true&hide_title=true&v=4" alt="Contribution activity graph" width="100%">
+
+<img src="assets/h-streak.svg" alt="Streak and trophies">
+
+<img src="https://streak-stats.demolab.com?user=spiderboy-Manikandan&hide_border=true&background=0d1117&ring=FF6B9D&fire=C86DD7&currStreakNum=FF6B9D&currStreakLabel=C86DD7&sideNums=c9d1d9&sideLabels=8b949e&dates=64748B" alt="GitHub streak" width="500">
+
+<img src="https://github-profile-trophy-two-lilac.vercel.app/?username=spiderboy-Manikandan&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&v=1" alt="GitHub trophies">
+
+<img src="assets/h-snake.svg" alt="Contribution snake">
+
+<img src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake">
 
 </div>
-
-<div align="center"><img src="./assets/h-graph.svg" width="100%" alt="Contribution graph"/></div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph-one-neon.vercel.app/graph?username=spiderboy-Manikandan&bg_color=0d1117&color=C86DD7&line=6C5CE7&point=FF6B9D&area=true&area_color=6C5CE7&hide_border=true&hide_title=true&v=4" alt="Contribution activity graph" width="100%"/>
-
-</div>
-
-<div align="center"><img src="./assets/h-streak.svg" width="100%" alt="Streak and trophies"/></div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=spiderboy-Manikandan&hide_border=true&background=0d1117&ring=FF6B9D&fire=C86DD7&currStreakNum=FF6B9D&currStreakLabel=C86DD7&sideNums=c9d1d9&sideLabels=8b949e&dates=64748B" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy-two-lilac.vercel.app/?username=spiderboy-Manikandan&theme=onedark&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&v=1" width="100%" alt="GitHub trophies"/>
-
-</div>
-
-<div align="center"><img src="./assets/h-snake.svg" width="100%" alt="Contribution snake"/></div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/spiderboy-Manikandan/spiderboy-Manikandan/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</p>
 
 ---
 
-<div align="center"><img src="./assets/h-connect.svg" width="100%" alt="Let's build something"/></div>
-
-I'm actively looking for **internship opportunities**, open to **freelance web/IoT work**, and always happy to talk tech, debug something together, or just connect. I usually reply within a day.
-
 <div align="center">
 
-**💼 Professional**
+<img src="assets/h-connect.svg" alt="Let's build something">
 
-<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<img src="assets/connect.svg" alt="Connect card: open to internships and freelance, usually replies within a day, based in Madurai, Tamil Nadu">
 
-<br/><br/>
+<br>
 
-**💬 Direct & Quick**
+<a href="https://www.linkedin.com/in/manikandan-b-968bab348/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:compmanikandanb23@gmail.com?subject=Hello%20Manikandan&body=Hi%20Manikandan%2C%0A%0A"><img src="https://img.shields.io/badge/Email-Write%20to%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://wa.me/917094964875?text=Hi%20Manikandan%2C%20I%20found%20you%20on%20GitHub."><img src="https://img.shields.io/badge/WhatsApp-Message%20me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 
-<a href="mailto:compmanikandanb23@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://wa.me/917094964875"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://manikandan-portfolio-kdhi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-View%20work-FF6B9D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/spiderboy-Manikandan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.instagram.com/__itz_mani__66/"><img src="https://img.shields.io/badge/Instagram-Say%20hi-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 
-</div>
+<br>
 
-<p align="center">📍 Madurai, Tamil Nadu, India · 🤖 Or ask my <a href="https://manikandan-portfolio-kdhi.vercel.app/#contact">portfolio AI assistant</a> — it knows my skills, projects and education</p>
-
-<br/>
-
-<div align="center">
-
-<img src="./assets/manikandan-banner.png" width="100%" alt="Manikandan B — skills and learning roadmap"/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:C86DD7,100:FF6B9D&height=140&section=footer&animation=twinkling" width="100%" alt=""/>
+🤖 Prefer a quick answer? Ask my [portfolio AI assistant](https://manikandan-portfolio-kdhi.vercel.app/#contact) — it knows my skills, projects and education.
 
 `LEARN` → `BUILD` → `TEST` → `DEBUG` → `IMPROVE` → `REPEAT`
 

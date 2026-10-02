@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 64" width="820" height="64" role="img" aria-label="Stats &amp; Top Languages">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 64" width="820" height="64" role="img" aria-label="Featured Repositories">
 <defs>
 <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#6C5CE7"/><stop offset=".5" stop-color="#C86DD7"/><stop offset="1" stop-color="#FF6B9D"/></linearGradient>
 <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
-<clipPath id="tc"><text x="410.0" y="35.8" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28.0" font-weight="800" textLength="352.8" lengthAdjust="spacing">Stats &amp; Top Languages</text></clipPath>
+<clipPath id="tc"><text x="410.0" y="35.8" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28.0" font-weight="800" textLength="352.8" lengthAdjust="spacing">Featured Repositories</text></clipPath>
 </defs>
 <style>
 .cl{animation:l 2.4s ease-in-out infinite}.cr{animation:r 2.4s ease-in-out infinite}
@@ -15,7 +15,7 @@
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}
 </style>
 <g class="cl-wrap"><g class="cl" transform="translate(208.3,15.7) scale(0.55)"><path d="M24 2 L4 22 L24 42" fill="none" stroke="#00C2FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g><g class="cr" transform="translate(594.1,15.7) scale(0.55)"><path d="M30 2 L12 44" stroke="#FF6B9D" stroke-width="6" stroke-linecap="round"/><path d="M34 2 L54 22 L34 42" fill="none" stroke="#00C2FF" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g></g>
-<text x="410.0" y="35.8" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28.0" font-weight="800" fill="url(#g)" textLength="352.8" lengthAdjust="spacing">Stats &amp; Top Languages</text>
+<text x="410.0" y="35.8" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="28.0" font-weight="800" fill="url(#g)" textLength="352.8" lengthAdjust="spacing">Featured Repositories</text>
 <g clip-path="url(#tc)"><rect class="sw" x="0" y="0" width="110" height="64" fill="url(#sh)" transform="skewX(-18)" opacity=".55"/></g>
 <line x1="233.6" y1="52" x2="586.4" y2="52" stroke="#C86DD7" stroke-opacity=".18" stroke-width="3" stroke-linecap="round"/>
 <line class="ln" x1="233.6" y1="52" x2="586.4" y2="52" stroke="url(#g)" stroke-width="3" stroke-linecap="round"/>
